@@ -1,0 +1,1770 @@
+{
+    "28162080": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Lives with wife",
+            "children": "Not recorded",
+            "marital_status": "Married",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Quit playing tennis due to balance issues; Walks well usually",
+            "tobacco": "Denies use",
+            "alcohol": "Denies use",
+            "illicit_drug": "Not recorded",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "Denies any allergies",
+        "medical_history": "High blood pressure; Heart problems; Trouble walking sometimes; Few falls this year; Felt unsteady before this year",
+        "family_medical_history": "Dad had heart problems; Mom fine",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Fell around 2:30 p.m.; Hands shaking; Slid to the floor; Thought speech might have been slurred; Wife saw some drooling; Hands shook for a bit; Left leg felt weaker than right arm; Felt a bit off after falling; Had a few falls this year; Always felt unsteady",
+            "negative": "Denies weakness or numbness in arms or legs; Denies recent illnesses or surgeries; Denies changes in mood, confusion, or difficulty concentrating since the fall; Denies changes in vision; Denies headaches; Denies recent episodes of dizziness before this incident; Denies recent changes in diet, weight, or overall energy levels; Denies feeling more anxious or stressed than usual lately; Denies difficulties with sleep patterns recently; Denies recent changes in bathroom habits; Denies recent changes in appetite or thirst"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Fall; Shaking hands",
+            "pain": "2",
+            "medication": "Aspirin; Lisinopril; Metoprolol; Multivitamin; Omeprazole; Simvastatin; Viagra; Warfarin",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "29344969": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "walk a bit every day",
+            "tobacco": "denies smoking",
+            "alcohol": "drinks sometimes when out with friends",
+            "illicit_drug": "denies using recreational drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "sulfa drugs; dairy",
+        "medical_history": "high blood pressure; high cholesterol; achalasia; memory issues",
+        "family_medical_history": "mom had high blood pressure",
+        "medical_device": "walker",
+        "present_illness": {
+            "positive": "left arm weakness since this morning, getting worse; dizziness this morning; balance a bit off",
+            "negative": "no pain; no discomfort; no numbness; no tingling; no difficulty speaking; no recent injuries; no falls; no recent changes in diet or routine; no recent infections; no fevers; no unusual fatigue; no similar episodes of weakness or dizziness in the past; no history of neurological conditions; no seizures; no headaches; no changes in vision; no changes in mood; no increased confusion; no anxiety"
+        },
+        "current_visit": {
+            "chiefcomplaint": "left arm weakness",
+            "pain": "7",
+            "medication": "omeprazole",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "29273922": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "denies smoking",
+            "alcohol": "wine couple times a week",
+            "illicit_drug": "denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "stuff used in cat scans",
+        "medical_history": "gout; hit in face during karate practice a month ago",
+        "family_medical_history": "dad had stroke; mom's side has heart disease and gout",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "left side feels strange and numb since yesterday, constant; left ear ringing and hard to hear for a few days; left hand feels clumsy; speech feels off, not saying right words clearly; walking feels different, moving slowly; feels a bit tired sometimes",
+            "negative": "denies weakness or difficulty moving left side; denies slurred speech; denies headaches; denies vision changes; denies recent illnesses, surgeries, or significant stressors; denies changes in mood or sleep; denies changes in appetite; denies weight loss or gain; denies recent blood pressure issues; denies fainting or dizziness"
+        },
+        "current_visit": {
+            "chiefcomplaint": "left side feels strange and numb; left ear ringing and hard to hear",
+            "pain": "3",
+            "medication": "allopurinol",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "26658062": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Don't smoke",
+            "alcohol": "Don't drink",
+            "illicit_drug": "No recreational drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "iodine; shellfish",
+        "medical_history": "shingles a month ago; hypothyroidism; multiple myeloma",
+        "family_medical_history": "No family history of similar issues",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "right leg weakness and numbness started this morning around 5:45 AM; fell out of bed this morning; legs and arm feel weak; weakness and numbness getting worse",
+            "negative": "No pain; No previous falls; No other big problems besides hypothyroidism; No changes in vision; No trouble speaking; No dizziness; No difficulty with bladder or bowel control; No recent infections or illnesses besides shingles; No other hospital visits besides check-ups for multiple myeloma"
+        },
+        "current_visit": {
+            "chiefcomplaint": "right leg weakness and numbness",
+            "pain": "0 (predicted)",
+            "medication": "Synthroid; Valtrex; daratumumab",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "29743827": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "denies smoking",
+            "alcohol": "occasional when with friends",
+            "illicit_drug": "denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "amoxicillin; Bactrim",
+        "medical_history": "diabetes; high blood pressure; breast cancer; asthma",
+        "family_medical_history": "mother: diabetes, high blood pressure; father: diabetes",
+        "medical_device": "ProAir HFA",
+        "present_illness": {
+            "positive": "face feels funny; numbness on one side of face; blurry vision sometimes; tingling in face, especially when touched; right side of face feels funny; symptoms started this morning; symptoms occur every half hour or so; stressed about brother's pancreatic cancer diagnosis",
+            "negative": "no weakness in arms or legs; no difficulty speaking; no headaches; no previous similar episodes; no recent changes in daily routine; no recent stressful events other than brother's diagnosis; no recent infections; no fevers; no recent illnesses; no history of migraines or severe headaches; no recent changes in diet; no recent changes in hydration; no unusual fatigue; no sleep disturbances; no major changes in mood"
+        },
+        "current_visit": {
+            "chiefcomplaint": "face feels funny; numbness on one side; blurry vision sometimes",
+            "pain": "Not recorded",
+            "medication": "Evista; metformin; multivitamin; ProAir HFA",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "24054450": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "walk sometimes",
+            "tobacco": "denies smoking",
+            "alcohol": "denies drinking alcohol",
+            "illicit_drug": "Not recorded",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "penicillin",
+        "medical_history": "heart problems; diabetes; high blood pressure",
+        "family_medical_history": "denies family history of heart attacks or strokes; family healthy",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "right side weakness, sudden onset, lasted about 20 minutes; garbled speech, sudden onset, lasted about 20 minutes; palpitations sometimes",
+            "negative": "denies headaches; denies dizziness; denies difficulty with coordination; denies changes in mood; denies changes in sleep; denies lingering symptoms; denies recent stressors; denies recent significant life changes; denies recent illnesses; denies recent infections; denies recent hospitalizations; denies recent changes in blood sugar levels; denies issues managing diabetes; denies recent falls; denies recent injuries; denies changes in vision; denies changes in hearing; denies changes in fatigue; denies chest pain; denies shortness of breath; denies recent changes in dietary habits; denies numbness; denies tingling"
+        },
+        "current_visit": {
+            "chiefcomplaint": "right side weakness; garbled speech",
+            "pain": "Not recorded",
+            "medication": "warfarin; torsemide; metoprolol; oxycodone; metformin; others for heart",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "25227196": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Manages on own",
+            "children": "Children live far away",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Used to smoke; not anymore",
+            "alcohol": "Denies alcohol use",
+            "illicit_drug": "Denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No known allergies",
+        "medical_history": "High blood pressure; cholesterol; heart issues; COPD; osteoporosis",
+        "family_medical_history": "No major health issues; normal stuff",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Weakness left side; dizziness; fell when standing up; numbness left arm and leg; started this morning after nap",
+            "negative": "No similar symptoms in past; no recent changes in vision; no headaches; no confusion; no trouble speaking; no increased fatigue; no changes in sleep patterns; no recent falls besides this morning; no recent infections (cold or flu)"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Weakness left side; dizziness; fell",
+            "pain": "3 (predicted)",
+            "medication": "Atenolol; atorvastatin; melatonin; vitamins",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "21458984": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "denies smoking",
+            "alcohol": "socially, 1-2 drinks/week",
+            "illicit_drug": "denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "denies allergies",
+        "medical_history": "high blood pressure; car accident last year; TIA",
+        "family_medical_history": "sister had stroke; mom had stroke; mom has heart problems",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "woke up feeling weak on right side; trouble talking; gait feels off; not sure where things are; forgetful lately; weakness mostly in face and arm; confused; off balance; trouble finding right words; forgets things quickly; mind is foggy; sleeping less; eating less",
+            "negative": "denies pain; denies headaches; denies changes in vision; denies recent illnesses; denies recent injuries; denies recent stressors; denies changes in bowel or bladder function"
+        },
+        "current_visit": {
+            "chiefcomplaint": "weakness on right side; trouble talking; gait off; confusion",
+            "pain": "0",
+            "medication": "amlodipine; lisinopril; labetalol; clonazepam; omeprazole; tolterodine",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "25865129": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Retired",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Walks a little bit",
+            "tobacco": "Denies smoking",
+            "alcohol": "Occasional, 1-2 glasses/week",
+            "illicit_drug": "Denies illicit drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "Percodan",
+        "medical_history": "Diabetes; high blood pressure; neuropathy (tingling in feet for years); usual headaches",
+        "family_medical_history": "Brothers with aneurysms",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Right side of face feels funny/numb since yesterday morning, worsened by afternoon; left side of face droops, especially lower part; difficulty drinking; headache, dull, usually mild, but bad last night on right side more than left",
+            "negative": "No difficulty speaking; no weakness in arm or leg; no changes in vision (blurriness or double vision); no recent illnesses/infections/significant stress; no recent changes in blood sugar levels; no recent injuries or falls; no recent changes in routine (except retirement); no confusion or difficulty concentrating"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Face feels funny; headache",
+            "pain": "7",
+            "medication": "Humalog; lisinopril; atorvastatin",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "24350216": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "No smoking",
+            "alcohol": "Couple drinks sometimes, usually on weekends",
+            "illicit_drug": "No illicit drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No allergies to meds or foods",
+        "medical_history": "Diabetes; high blood pressure; stroke",
+        "family_medical_history": "Mom: heart attack, stroke; Grandma: heart attack; Aunts and uncles: heart attacks",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Right hand numbness; walking differently; numbness started a day after taking Nyquil; walk feels unsteady; tingling and numbness in whole right hand; holding onto walls helps a little; feeling unsteady; feeling a bit down",
+            "negative": "No weakness in hand; no difficulty with coordination; no pain elsewhere; no recent injuries or falls; no changes in vision; no headaches; no confusion; no dizziness; no fainting; no increased anxiety or stress"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Right hand numbness; walking differently",
+            "pain": "0 (predicted)",
+            "medication": "Nyquil; insulin; amoxicillin; aspirin; atorvastatin; azathioprine; duloxetine; hydrochlorothiazide; levothyroxine; lidocaine; nortriptyline; oxycodone-acetaminophen; pantoprazole; prednisone; tacrolimus; valsartan",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "24081886": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Don't smoke",
+            "alcohol": "Don't drink",
+            "illicit_drug": "No recreational drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "penicillin; some antibiotics",
+        "medical_history": "bowel issues; colonic dysmotility; part of colon removed; stomach issues",
+        "family_medical_history": "Mom: ovarian cancer; blood clots; drinking issues; Brother: alcohol use disorder",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "tummy hurts bad; started this morning after eating soup; feels worse than before; pain all over tummy; gets worse when eat; vomited once, food inside; dry heaving many times; last BM yesterday, brown color, stringy; not really hungry; sometimes feel stressed from managing health; mostly just tired",
+            "negative": "no fever; no changes in appetite; no food intolerances recently; no previous episodes of similar tummy pain; no history of ulcers or gallbladder problems; no weight loss; no travel recently; no eating foods not usually consumed; no significant changes in life; no history of heartburn, acid reflux, bloating, or gas like this; no new medications in past few weeks; haven't changed diet much"
+        },
+        "current_visit": {
+            "chiefcomplaint": "tummy hurts bad",
+            "pain": "10",
+            "medication": "acetaminophen; albuterol",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "26689256": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "son",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "walking",
+            "tobacco": "denies use",
+            "alcohol": "denies use",
+            "illicit_drug": "denies use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "denies known allergies",
+        "medical_history": "bowel problems; small bowel obstruction; bowel surgery; adhesions surgery; cancer; hysterectomy",
+        "family_medical_history": "sister with diabetes and osteoporosis; son with heart attack; dad died young from meningitis",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "stomach pain few days ago; vomiting few days ago; diarrhea few days ago, worse today; abdominal pain around belly button; pain 2/10; pain better with walking; poor appetite; feeling tired sometimes; diarrhea brown and watery; diarrhea few times a day; mouth feels dry; reduced urination; tummy feels swollen; tummy tender to touch",
+            "negative": "no fever; no chills; no weight change; no recent changes in stress levels or mental health; no recent travel; no changes in diet; no exposure to anyone ill; no dizziness"
+        },
+        "current_visit": {
+            "chiefcomplaint": "stomach hurts; throwing up; bad diarrhea",
+            "pain": "2",
+            "medication": "aspirin; metoprolol",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "22248817": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "denies smoking",
+            "alcohol": "wine occasionally, once a week",
+            "illicit_drug": "Not recorded",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "denies allergies",
+        "medical_history": "total colectomy and ileal J-pouch a few years ago",
+        "family_medical_history": "mom: celiac sprue, possible colon polyps; dad: liver cirrhosis (deceased)",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "stomach pain; bloating; pain started a few days ago, worse today; pain mostly in the middle, moves around; pain cramping, tight; eating makes pain worse; lying down helps pain; bowel habits off lately; bowel movements less regular; feels like cannot empty bowels completely; stool color darker lately",
+            "negative": "denies nausea; denies vomiting; denies diarrhea; denies changes in appetite; denies blood in stool; denies unusual color changes in stool other than darker"
+        },
+        "current_visit": {
+            "chiefcomplaint": "stomach pain; bloating",
+            "pain": "7",
+            "medication": "Ventolin; pain medication",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "25488266": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "no smoking",
+            "alcohol": "social occasions only",
+            "illicit_drug": "no drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "no allergies",
+        "medical_history": "chronic constipation; intestinal blockages; high cholesterol; high blood pressure",
+        "family_medical_history": "mom had stroke; dad had stroke and high blood pressure; brother had stroke; sister had heart attack",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "stomach hurts really bad; feel sick to stomach; pain started suddenly this morning; pain is sharp; pain doesn’t go away; pain mainly in the middle; pain feels like it’s spreading; feeling queasy; threw up a couple times; hasn't been able to go to the bathroom easily; tenderness when touching stomach",
+            "negative": "nothing makes pain better or worse; appetite hasn't changed much; no recent illnesses; no recent surgeries; no fever; no chills; no swelling in abdomen; no recent changes in diet; nothing unusual eaten; no similar stomach pain in the past; no stress or anxiety recently; weight hasn’t changed much lately"
+        },
+        "current_visit": {
+            "chiefcomplaint": "stomach hurts really bad; feel sick to stomach",
+            "pain": "8",
+            "medication": "aspirin; atorvastatin; other regular medicines",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "28523522": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "walk around a bit",
+            "tobacco": "denies use",
+            "alcohol": "denies use",
+            "illicit_drug": "denies use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "antibiotics; aspirin; some painkillers",
+        "medical_history": "small intestine removed; irritable bowel syndrome; liver problems",
+        "family_medical_history": "cousin has autoimmune disease; brother had strokes",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "belly pain, especially after going to the bathroom; pain on the right side; sick to stomach; vomited once; painful urination; frequent urination; pain started today; other symptoms started a few days ago; resting makes pain a little less; drinking water sometimes helps a bit; going to the bathroom more often; feeling tired sometimes; tummy feels a bit swollen; pain is constant",
+            "negative": "eating doesn't help pain; no fever; no chills; no recent travel; diet hasn't changed much; no blood in stool; stool color is normal; no difficulty swallowing"
+        },
+        "current_visit": {
+            "chiefcomplaint": "belly pain",
+            "pain": "8",
+            "medication": "amlodipine; diazepam; omeprazole; ursodiol; B-12; fluoxetine; loperamide",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "26611786": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "no smoking",
+            "alcohol": "socially; 1 beer or glass of wine per week",
+            "illicit_drug": "no drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "ibuprofen",
+        "medical_history": "diverticulitis; diverticulitis surgery; diabetes; sleep apnea",
+        "family_medical_history": "dad colon cancer; brothers colon cancer",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "tummy hurts really bad; pain started last night around midnight; pain mostly on right side but feels all over; very intense pain; constant pain since it started; sharp pain; feeling sick to stomach",
+            "negative": "no fever; no vomiting; no changes in bowel habits; nothing helps pain; no changes in diet; no changes in weight"
+        },
+        "current_visit": {
+            "chiefcomplaint": "tummy hurts really bad",
+            "pain": "10",
+            "medication": "aspirin; glyburide; metformin; omeprazole; Percocet; Lyrica; testosterone shots",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "28633958": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "denies smoking",
+            "alcohol": "beer or wine a couple times a week",
+            "illicit_drug": "denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "dog hair; house dust; some fruits",
+        "medical_history": "asthma; constipation (worsening); hepatitis C",
+        "family_medical_history": "denies major health issues; denies liver problems; denies digestive issues",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "feeling sick; tummy hurts a lot; throwing up; symptoms started yesterday; stomach pain yesterday; threw up once yesterday; crampy stomach pain; feels really bad; haven't had a bowel movement; haven't passed gas; pain gets worse when moving around; feel a bit warm; haven't eaten much because it makes me feel worse; constipation getting worse; took too much fiber by mistake; felt nauseous all day; vomited once last night; feels like everything I drink just comes right back up",
+            "negative": "no chills; nothing helps much with pain; no fever; no significant changes in appetite; no similar episodes in the past; no significant health conditions in family; no changes in weight; no recent travel; no drastic changes in diet; no dizziness; no lightheadedness"
+        },
+        "current_visit": {
+            "chiefcomplaint": "feeling sick; tummy hurts; throwing up",
+            "pain": "8 (predicted)",
+            "medication": "Truvada; fiber",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "29632784": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "never smoked",
+            "alcohol": "never drank",
+            "illicit_drug": "no drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "milk; shellfish",
+        "medical_history": "ileostomy; previous surgeries; previous stoma problems",
+        "family_medical_history": "parents: diabetes; high blood pressure; high cholesterol",
+        "medical_device": "ileostomy",
+        "present_illness": {
+            "positive": "abdominal pain since yesterday, worsening, constant, middle and all around, strong/twisting pain, worse with movement; nausea; vomiting a little; low appetite; less output from stoma; feeling very tired lately; eating less than usual",
+            "negative": "no fever; no changes to diet; no recent illnesses; no recent surgeries; no recent changes in medical conditions; no recent emotional stress or anxiety; no weight loss"
+        },
+        "current_visit": {
+            "chiefcomplaint": "tummy hurts really bad",
+            "pain": "9",
+            "medication": "calcium; vitamin D; B-12; some other stuff",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "27809741": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Don't smoke",
+            "alcohol": "Drink sometimes, a little",
+            "illicit_drug": "No drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "lisinopril",
+        "medical_history": "diabetes; high blood pressure; intestinal obstruction (surgery a few months ago)",
+        "family_medical_history": "aunt had breast cancer",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "sick for a few days; tummy hurts (started yesterday after eating fruit); threw up (regular food); sharp pain; pain stays in stomach; stomach feels swollen and tender; not feeling hungry much lately",
+            "negative": "no fever; no diarrhea; no changes in bowel movements; no unusual color or contents in vomit; no changes in urination"
+        },
+        "current_visit": {
+            "chiefcomplaint": "tummy hurts; threw up",
+            "pain": "10",
+            "medication": "metformin; Cozaar; Cymbalta; vitamins; pain medicine",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "25256401": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Used to smoke, stopped years ago",
+            "alcohol": "Drinks sometimes, not much",
+            "illicit_drug": "No drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No allergies to meds or foods",
+        "medical_history": "Heart disease; high blood pressure; high cholesterol; small bowel blockage surgery",
+        "family_medical_history": "Dad had heart attack; mom died in childbirth; sisters had breast cancer and diabetes",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Tummy hurts really bad, started early this morning, won't stop; pain mostly in lower belly, more on left side; pain feels tight and achy; feels sick to stomach; threw up a little; tiny bit of gas; last bowel movement yesterday, a bit small, usually goes every day",
+            "negative": "No fever; no big changes in diet; haven't been sick recently; no history of gastrointestinal issues like ulcers, gallstones, or irritable bowel syndrome; no significant changes in weight; no problems with urination; no recent surgeries or procedures related to abdomen"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Tummy hurts really bad",
+            "pain": "9",
+            "medication": "Hydroxyurea; Lipitor; Plendil; ramipril; Xarelto",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "24919058": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "walk a bit",
+            "tobacco": "denies smoking",
+            "alcohol": "denies drinking",
+            "illicit_drug": "denies recreational drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "denies allergies",
+        "medical_history": "high blood pressure; diabetes; intestinal surgery; asthma; osteoporosis",
+        "family_medical_history": "mom had stomach problems",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "tummy pain started yesterday around noon; pain worse with eating; pain in middle under chest; nausea; vomiting a few times; inability to pass gas or poop for days",
+            "negative": "no fever; no changes in diet; no recent weight changes; no difficulty swallowing"
+        },
+        "current_visit": {
+            "chiefcomplaint": "tummy pain; inability to pass gas or poop",
+            "pain": "7",
+            "medication": "amlodipine; enalapril; metformin; metoprolol; alendronate; calcium with vitamin D; latanoprost; aspirin; atorvastatin",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "25917517": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Daily walking; treadmill",
+            "tobacco": "Denies smoking",
+            "alcohol": "Wine occasionally, one glass daily",
+            "illicit_drug": "Denies illicit drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "Denies known allergies",
+        "medical_history": "High blood pressure",
+        "family_medical_history": "Denies early heart disease; family healthy",
+        "medical_device": "Denies current medical device use",
+        "present_illness": {
+            "positive": "Body feels heavy, general; dizziness, mostly when climbing stairs; onset 10 days ago; lower energy levels, especially after climbing stairs",
+            "negative": "Denies headaches; denies fatigue; denies changes in vision; denies recent illnesses; denies recent hospitalizations; denies recent weight changes; denies changes in sleep patterns; denies history of anxiety; denies history of depression; denies recent changes in diet; denies recent changes in hydration"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Body feels heavy; dizziness",
+            "pain": "5",
+            "medication": "Cozaar",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "22030604": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "boating; yard work",
+            "tobacco": "denies smoking",
+            "alcohol": "beer or wine on weekends",
+            "illicit_drug": "denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "denies allergies",
+        "medical_history": "high blood pressure; high cholesterol; anxiety",
+        "family_medical_history": "mother died of aneurysm; father alive and healthy; half-siblings healthy",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "chest pain; lightheadedness; arm numbness; felt sick; vomited twice; jaw pain; shortness of breath; racing heart",
+            "negative": "Not recorded"
+        },
+        "current_visit": {
+            "chiefcomplaint": "chest pain; lightheadedness; arm numbness",
+            "pain": "5",
+            "medication": "aspirin; nitroglycerin; sertraline",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "27958985": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "son",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Walk 3-4 times a week",
+            "tobacco": "Don't smoke",
+            "alcohol": "Wine occasionally, 1 glass/week",
+            "illicit_drug": "No recreational drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No allergies to meds or anything else",
+        "medical_history": "Heart attack; other heart stuff",
+        "family_medical_history": "Dad had heart attack; mom had stroke; son had heart attack",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Chest pain started 1 hour ago; lasted 20 minutes; felt like slight pinprick/tingle; worse with exercise; better after home medicine and hospital drips",
+            "negative": "No shortness of breath; no sweating; no nausea; no recent illnesses or infections"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Chest pain",
+            "pain": "Not recorded",
+            "medication": "SLNTG; ASA; heparin drip; nitro drip; aspirin; metoprolol; clopidogrel; lisinopril; simvastatin; gabapentin; Nasonex; isosorbide; nitrostat; chlordiazepoxide",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "22268900": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Retired",
+            "living_situation": "Lives with wife",
+            "children": "Daughter (deceased)",
+            "marital_status": "Married",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Former smoker",
+            "alcohol": "Wine, 1-2 glasses/week",
+            "illicit_drug": "None",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "Zithromax",
+        "medical_history": "Heart problem (stent); High blood pressure; High cholesterol; Asthma",
+        "family_medical_history": "Daughter: heart attack (deceased)",
+        "medical_device": "Stent in heart",
+        "present_illness": {
+            "positive": "Chest pain: sudden onset this morning; worse with playing cards; pressure feeling; 4/10 severity; present at rest; tightness; difficulty catching breath; Cough: for weeks; keeps patient up at night; brings up yellow phlegm; worse when lying down; Wheezing with deep breaths",
+            "negative": "No fever; No chills; No recent weight changes; No recent cold or flu before cough"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Chest pain; Cough",
+            "pain": "4",
+            "medication": "Atenolol; Losartan; Simvastatin; Fluticasone; Albuterol; Mucinex",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "23138723": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Lives with wife who needs care",
+            "children": "Not recorded",
+            "marital_status": "Married",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Used to walk more; helps wife at home",
+            "tobacco": "Denies smoking",
+            "alcohol": "Denies drinking",
+            "illicit_drug": "Denies recreational drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "Denies medication or food allergies",
+        "medical_history": "Heart disease; high blood pressure; high cholesterol; low vitamin B12; valve replaced for heart disease",
+        "family_medical_history": "Heart disease; cancer; wife getting weaker and more confused",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Chest pain when walking, worsening over one month; squeezing/tight feeling in chest; pain worse with walking, better with rest; pain comes more often lately; feels sad seeing wife get worse",
+            "negative": "Denies sharp or dull chest pain; denies pain spreading to arms, back, or jaw; denies shortness of breath, sweating, or nausea"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Chest pain when walking",
+            "pain": "0",
+            "medication": "Aspirin; amlodipine; benazepril; atenolol; levothyroxine; nitroglycerin; lorazepam; cyanocobalamin; simvastatin; fish oil",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "23535669": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Doesn't exercise much; intense shoveling",
+            "tobacco": "Quit 10 years ago",
+            "alcohol": "Rarely, maybe once a week",
+            "illicit_drug": "No drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No allergies",
+        "medical_history": "No significant past medical history; no high blood pressure; no diabetes; no heart conditions",
+        "family_medical_history": "No heart problems; no sudden deaths",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Chest pain when shoveling snow two days ago; tight feeling in middle of chest; lasted about 5 minutes each time; happened a few times; got better with rest; first time experiencing this; sometimes feel stressed",
+            "negative": "No shortness of breath; no sweating; no nausea; no recent illnesses; no weight loss; no increased fatigue; no high stress or anxiety too bad"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Chest pain",
+            "pain": "4 or 5",
+            "medication": "Aspirin sometimes/when needed",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "26090747": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "quit years ago",
+            "alcohol": "socially, 1-2 times/week",
+            "illicit_drug": "none",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "none known",
+        "medical_history": "coronary artery disease; fatty liver; laparoscopic sigmoid colectomy",
+        "family_medical_history": "father heart problems; brother heart problems; mother cancer",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "chest pain started while unloading truck; lasted a few hours; tight feeling; radiated to arms; sweating; previous less severe episodes",
+            "negative": "no sharp pain; no diabetes; no shortness of breath; no dizziness; no fatigue; stable weight; appetite okay; trouble sleeping sometimes"
+        },
+        "current_visit": {
+            "chiefcomplaint": "chest pain",
+            "pain": "Not recorded",
+            "medication": "aspirin; rosuvastatin; tamsulosin; nitroglycerin (taken for pain)",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "22520181": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "never smoked",
+            "alcohol": "socially",
+            "illicit_drug": "none",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "erythromycin; sulfa drugs; Zithromax; Clindamycin",
+        "medical_history": "high blood pressure; high cholesterol; breast cancer (finished treatment a few years ago); heart procedure (stent, about a year ago); stomach issues",
+        "family_medical_history": "father had heart attack; mom had heart attack during pregnancy",
+        "medical_device": "stent (about a year ago)",
+        "present_illness": {
+            "positive": "chest pain (pressure-like, squeezing, in chest and jaw, lasted for hours, improved with aspirin); shortness of breath (started last night, felt more when walking, didn't improve with aspirin or acetaminophen); tired (for a while now); poor sleep (for a while now); worried about heart",
+            "negative": "sharp chest pain; pain spreading to arms, neck, or back (except jaw); specific activities or triggers making shortness of breath worse (except walking)"
+        },
+        "current_visit": {
+            "chiefcomplaint": "chest pain; shortness of breath",
+            "pain": "chest pain 3; shortness of breath 2",
+            "medication": "aspirin; acetaminophen; statin; calcium with vitamin D; other vitamins; medicine for stomach issues",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "26398825": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "walk a bit; not much",
+            "tobacco": "smoke occasionally",
+            "alcohol": "socially; once a week",
+            "illicit_drug": "no recreational drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No allergies",
+        "medical_history": "high blood pressure; high cholesterol; gout; restless legs; sleep apnea",
+        "family_medical_history": "dad had heart disease; mom had alcohol-related complications",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "chest pain; shortness of breath; started two weeks ago; squeezing feeling; pressure; goes away with rest; mostly in chest; sometimes in neck; walking or climbing stairs makes it worse; sometimes feel more tired; sleep isn't great; stressed sometimes",
+            "negative": "dizziness; sweating; nausea; no history of anxiety or depression; no big weight changes"
+        },
+        "current_visit": {
+            "chiefcomplaint": "chest pain; shortness of breath",
+            "pain": "2 or 3",
+            "medication": "allopurinol; lansoprazole",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "25776405": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "retired",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "denies smoking",
+            "alcohol": "denies drinking alcohol",
+            "illicit_drug": "denies using drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "iodine; penicillin; NSAIDs",
+        "medical_history": "stroke; heart problems; high blood pressure; heart disease; heart attack; diabetes",
+        "family_medical_history": "mother had stroke; father had heart problems",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "chest pain started around 3 AM; tight feeling in chest; pain stays in chest; lying down helps a little",
+            "negative": "pain not sharp; pain not moving to other areas; no shortness of breath; no sweating; no nausea; no dizziness; no swelling in legs or feet; no recent weight changes"
+        },
+        "current_visit": {
+            "chiefcomplaint": "chest pain",
+            "pain": "5",
+            "medication": "Cozaar; Zantac; other usual medicines",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "21413034": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Lives with wife",
+            "children": "Not recorded",
+            "marital_status": "Married",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Quit smoking 5 years ago; smoked a lot previously",
+            "alcohol": "No alcohol",
+            "illicit_drug": "Not recorded",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No known allergies",
+        "medical_history": "COPD",
+        "family_medical_history": "Mother stomach cancer; Father stomach cancer; Grandmother stomach cancer",
+        "medical_device": "Inhalers; Oxygen at home",
+        "present_illness": {
+            "positive": "Coughing more few days ago; Trouble breathing few days ago; Breathing faster few days ago; Chills few days ago; Felt cold few days ago; Productive cough; Cough up clear mucus; Tired from breathing hard; Breathing worse when moving around; Sitting still helps a bit; Feel more short of breath lately; Granddaughter sick with fever and cough; Sometimes wheezing when breathing out; Wake up feeling tired",
+            "negative": "No blood in mucus; No fever; No chest pain; No weight loss; No changes in appetite; No recent exposure to allergens or irritants; No recent vaccinations; No tightness in chest; Sleeping fine"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Increased coughing; Trouble breathing; Breathing faster",
+            "pain": "0 (predicted)",
+            "medication": "Spiriva; Advair",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "25395322": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "quit many years ago",
+            "alcohol": "denies",
+            "illicit_drug": "denies",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "denies",
+        "medical_history": "COPD; heart issues",
+        "family_medical_history": "denies heart disease; denies lung disease; denies strokes",
+        "medical_device": "oxygen at home",
+        "present_illness": {
+            "positive": "fever, up to 101 degrees today; cough, productive with yellow mucus, started a few days ago; shortness of breath, around 3 or 4 severity; chills in feet; nausea, started today, comes and goes; runny nose; sore throat; wheezing sometimes when using oxygen",
+            "negative": "denies chest pain; denies severe fatigue; denies sweats; denies body aches; denies recent illnesses or infections before cough and fever; denies recent travel; denies close contact with sick people; denies recent changes in appetite"
+        },
+        "current_visit": {
+            "chiefcomplaint": "fever; cough",
+            "pain": "Not recorded",
+            "medication": "fluticasone; ipratropium-albuterol; furosemide",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "24696457": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "golf",
+            "tobacco": "denies smoking",
+            "alcohol": "wine occasionally, once a month",
+            "illicit_drug": "denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "Celebrex",
+        "medical_history": "asthma; diabetes; total knee replacement; rotator cuff repair",
+        "family_medical_history": "father had lung cancer; mother had breast cancer; denies heart problems",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "cough producing mucus; feeling tired; chest tightness; feeling chilly sometimes; labored breathing, especially when walking around; poor appetite; weight loss",
+            "negative": "denies fever; denies night sweats; denies wheezing; denies shortness of breath; denies chest pain; denies anxiety; denies depression; denies recent exposure to respiratory infections or illnesses; denies being around anyone sick; denies similar symptoms in the past"
+        },
+        "current_visit": {
+            "chiefcomplaint": "cough; feeling tired; chest tightness",
+            "pain": "5 or 6",
+            "medication": "lisinopril; metformin; omeprazole",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "23534886": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "quit years ago",
+            "alcohol": "don't drink much",
+            "illicit_drug": "never took drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "seasonal allergies",
+        "medical_history": "hearing loss; vertigo; cold last month; bronchoscopy",
+        "family_medical_history": "No lung cancer or similar issues",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "hot; shaky; chest tightness; cough; fever; coughed up blood; tired; weak; shortness of breath; difficulty breathing; shiver",
+            "negative": "asthma; COPD; other respiratory conditions; recent illnesses or infections aside from bronchoscopy; weight loss; night sweats; changes in appetite; swelling in legs or feet; other unusual symptoms; recent travel; exposure to someone sick; chest pain; rashes; discoloration"
+        },
+        "current_visit": {
+            "chiefcomplaint": "hot; shaky; chest tightness; cough",
+            "pain": "Not recorded",
+            "medication": "allopurinol; multivitamin; fish oil; tamsulosin",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "28285622": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Used to smoke, stopped many years ago",
+            "alcohol": "Doesn't drink",
+            "illicit_drug": "Doesn't use drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "Amoxicillin and similar antibiotics; Ampicillin",
+        "medical_history": "COPD; Pneumonia (3 months ago); UTI (3 months ago)",
+        "family_medical_history": "No major health issues",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Short of breath; Low oxygen level; Cough (productive with yellowish sputum, started 2 days ago); Confusion (increased, started 2 days ago); Fever (up to 100.5); Chills; Leg pain; Fatigue",
+            "negative": "Chest pain; Swelling in feet or legs; Recent travel; Exposure to sick individuals; Changes in appetite; Weight gain or loss"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Short of breath; Low oxygen level; Cough; Confusion",
+            "pain": "Not recorded",
+            "medication": "Aspirin; Depakote; Fluoxetine; Levothyroxine; Omeprazole; Lipitor; Zyprexa",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "24506427": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Used to smoke, stopped many years ago",
+            "alcohol": "Denies alcohol use",
+            "illicit_drug": "Denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No known allergies",
+        "medical_history": "Managing blood pressure; managing cholesterol",
+        "family_medical_history": "Mother had high blood pressure",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Cough, started 3 weeks ago, worsened last week; productive cough with white and yellow sputum; trouble breathing, started 3 weeks ago, worsened last week; chest pain with movement or deep breathing; easier to breathe when sitting up; harder to breathe when lying down; increased fatigue; weakness; poor appetite for about a month; weight loss, about 25 pounds in the last month; wakes up earlier than usual",
+            "negative": "No fever; no chills; no previous respiratory issues (asthma, COPD, pneumonia); no recent illnesses or infections; no nausea; no vomiting; no changes in bowel habits; no swelling in legs or ankles; no difficulty sleeping"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Cough; trouble breathing; weight loss; poor appetite",
+            "pain": "3 (predicted)",
+            "medication": "Aspirin; Lisinopril; Centrum Silver",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "22678086": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "cigarettes, one pack a day",
+            "alcohol": "binge drinking, a couple days ago",
+            "illicit_drug": "Not recorded",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "morphine",
+        "medical_history": "feelings of depression (not diagnosed)",
+        "family_medical_history": "dad had heart attack",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "breathing issues, few days duration; stuffy nose; cough; can't catch breath; sweating; worse when lying down; better when sitting up; chills; very tired; generally weak; lost weight without trying; appetite off",
+            "negative": "chest pain; chest tightness; fever; body aches; history of respiratory issues (asthma, COPD); swelling in legs; swelling in ankles"
+        },
+        "current_visit": {
+            "chiefcomplaint": "breathing issues; feeling bad; had a lot to drink",
+            "pain": "8",
+            "medication": "Suboxone; Tylenol PM",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "29604798": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "never smoked",
+            "alcohol": "don't drink",
+            "illicit_drug": "Not recorded",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No known allergies",
+        "medical_history": "heart problems; breathing issues since young; heart failure; atrial fibrillation",
+        "family_medical_history": "brother has obesity",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "short of breath, comes and goes, worse after walking a little, worse lying down, better sitting up, wakes up at night; cough, started 3 days ago, productive, yellowish/green phlegm; throwing up, started 3 days ago; not going to the bathroom; chest tightness sometimes; legs feel a bit swollen; poor appetite; feeling a bit under the weather a few days ago; anxiety sometimes when short of breath; changes in urination, not going much, doesn't feel right",
+            "negative": "no fever; no chills; no recent weight changes; no recent cold or flu before symptoms"
+        },
+        "current_visit": {
+            "chiefcomplaint": "short of breath; cough; throwing up; not going to the bathroom",
+            "pain": "Not recorded",
+            "medication": "carvedilol; apixaban; other medicines for heart and other conditions",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "24159538": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "former smoker, stopped many years ago",
+            "alcohol": "denies",
+            "illicit_drug": "denies",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "denies",
+        "medical_history": "asthma; lung issues from pneumonia",
+        "family_medical_history": "father had kidney problems; mom passed away of old age",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "trouble breathing, especially with activity (walking, stairs); started a few days ago, got worse; wheezing; need to sit down to catch breath; coughing up white phlegm; wheezing worse with activity; wakes up feeling like can't breathe easily, needs to prop self up; legs feel a bit swollen sometimes, especially after sitting for a long time",
+            "negative": "denies fever; denies chills; denies weight loss; denies fatigue; denies changes in appetite; denies other unusual symptoms besides leg swelling"
+        },
+        "current_visit": {
+            "chiefcomplaint": "trouble breathing",
+            "pain": "5",
+            "medication": "atorvastatin; calcium carbonate; vitamin D; thyroid medicine; pills for heart; pills for blood pressure",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "27966517": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "quit years ago",
+            "alcohol": "denies",
+            "illicit_drug": "denies",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No known allergies to meds",
+        "medical_history": "COPD",
+        "family_medical_history": "uncles and aunt had asthma; mom had stroke",
+        "medical_device": "inhalers",
+        "present_illness": {
+            "positive": "short of breath, worse over past two days; coughing a lot, productive with mucus; mucus clear, sometimes yellow; feel weak and tired; not eating much lately; feel nauseous; appetite off; walking indoors makes shortness of breath worse; lying down feels better; feel tired during the day; not sleeping as well as usual",
+            "negative": "no fever; no chills; no night sweats; no recent changes in weight; no recent infections; no colds recently; haven't been around sick people; no swelling in legs or feet; no chest pain; no recent hospitalizations; no recent emergency visits for COPD or breathing issues; no recent vaccinations"
+        },
+        "current_visit": {
+            "chiefcomplaint": "short of breath; coughing a lot",
+            "pain": "Not recorded",
+            "medication": "albuterol; Advair; other meds for COPD and other stuff",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "24346912": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "don't smoke",
+            "alcohol": "don't drink",
+            "illicit_drug": "No recreational drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No allergies",
+        "medical_history": "Urinary tract infection; colon cancer surgery",
+        "family_medical_history": "Family healthy; No major health issues",
+        "medical_device": "stent",
+        "present_illness": {
+            "positive": "pain in side, mostly left near ribs; burning when urinating, happens every time, constant; urine darker; urine smells stronger; pain is sharp; lying down makes pain better; moving around makes pain worse; symptoms for a few days",
+            "negative": "no blood in urine; no fever; no chills; no nausea; no changes in appetite"
+        },
+        "current_visit": {
+            "chiefcomplaint": "pain in side; burning when urinating",
+            "pain": "8",
+            "medication": "Cipro; phenazopyridine",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "24719692": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Don't smoke",
+            "alcohol": "Don't drink",
+            "illicit_drug": "Never used recreational drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No allergies to meds or food",
+        "medical_history": "High blood pressure; High cholesterol; Diabetes; UTI last month",
+        "family_medical_history": "Sister has high blood pressure",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "Felt cold all over, especially in hands, about an hour ago; Chills; Adding layers feels a bit better",
+            "negative": "No pain; Didn't feel feverish; No shortness of breath; No weakness; No confusion; No recent cold environments; No exposure to illnesses; Moving around doesn't help much; No recent changes in diet or fluid intake; No recent hospitalizations; No changes in appetite; Weight stable; Energy levels okay; No sweating; No palpitations; No changes in vision"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Felt cold all over; Chills",
+            "pain": "0",
+            "medication": "Amlodipine; Atorvastatin; Tamsulosin; Vitamins and minerals",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "20488618": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "living alone",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "occasional walks",
+            "tobacco": "denies smoking",
+            "alcohol": "denies drinking",
+            "illicit_drug": "denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "denies allergies",
+        "medical_history": "peptic ulcer (treated)",
+        "family_medical_history": "denies significant health problems; denies diabetes; denies cancer",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "severe belly pain; pain in right side of belly; pain worse with deep breath; pain got worse; pain started as dull ache; pain feels like squeezing; chilly sometimes; threw up a little bit; not eating much; drinking more water; feels tender when touching abdomen; little swelling on the right side of abdomen; bit of post-nasal drip; low back pain; feels more tired than usual; wakes up feeling drained",
+            "negative": "denies changes in bowel movements; denies diarrhea; denies constipation; denies fever; denies swelling besides on right side; denies weight loss; denies recent travel; denies unusual food experiences"
+        },
+        "current_visit": {
+            "chiefcomplaint": "severe belly pain",
+            "pain": "Not recorded",
+            "medication": "acetaminophen; eye drops; breathing medicine",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "27232707": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "denies smoking",
+            "alcohol": "denies drinking",
+            "illicit_drug": "Not recorded",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "Shellfish",
+        "medical_history": "HIV; high blood pressure; anemia; kidney transplant (a few years ago); UTIs (before transplant)",
+        "family_medical_history": "Mom: high blood pressure; grandmother: high blood pressure; aunt: high blood pressure; aunt: throat cancer; cousin: cancer (type unknown)",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "tired (about a week ago); fever (around 101 degrees, most of the time); burning urination (got worse recently); urine smells strong; very tired all the time; hasn’t slept well; always stressed out",
+            "negative": "no changes in appetite; no nausea; no back pain; no recent illnesses or infections before this (except past infections, but nothing like this); no unusual color or discharge in urine; no pain in back or sides; no chills; no night sweats; no changes in weight; no recent travel; no new exposures to people or environments; no UTIs since transplant"
+        },
+        "current_visit": {
+            "chiefcomplaint": "tired; fever; burning urination",
+            "pain": "Not recorded",
+            "medication": "Tylenol (didn’t help much); Truvada; Prograf; some others for conditions",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "28169254": {
+        "demographics": {
+            "age": "60",
+            "gender": "male",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "alone",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "denies smoking",
+            "alcohol": "socially sometimes",
+            "illicit_drug": "denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "denies known allergies",
+        "medical_history": "bladder cancer; HIV; syphilis; heart issues as a kid",
+        "family_medical_history": "denies significant health issues",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "fever, onset 2 days ago after prostate biopsy; burning with urination, onset 2 days ago after prostate biopsy",
+            "negative": "chills; lower abdominal pain; changes in urine color; fatigue; weakness; recent urinary issues before biopsy; chills; sweating"
+        },
+        "current_visit": {
+            "chiefcomplaint": "fever; burning with urination",
+            "pain": "fever 3; burning 2",
+            "medication": "Wellbutrin; Truvada; Ativan; Trazodone; over-the-counter pain medication",
+            "arrival_transport": "walk-in",
+            "disposition": "Not recorded"
+        }
+    },
+    "27786277": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "denies smoking",
+            "alcohol": "socially; 1-2 drinks/week",
+            "illicit_drug": "Not recorded",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "penicillin",
+        "medical_history": "previous UTIs",
+        "family_medical_history": "diabetes; high blood pressure; high cholesterol; kidney problems",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "pain with urination; burning sensation with urination; dull ache in lower belly; cloudy urine; strong urine odor; increased urinary frequency; feeling cold sometimes",
+            "negative": "fever; chills; back pain"
+        },
+        "current_visit": {
+            "chiefcomplaint": "pain with urination; burning sensation with urination",
+            "pain": "3 (predicted)",
+            "medication": "losartan; metoprolol; CellCept; pravastatin; Prograf",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "29001930": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "No smoking",
+            "alcohol": "No drinking",
+            "illicit_drug": "No drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "shellfish; bee pollen; latex",
+        "medical_history": "UTI; short cervix surgery; asthma; depression; allergy",
+        "family_medical_history": "arthritis; bipolar",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "side pain; pain with deep breath; feeling hot; shaky; pain started a few days ago; pain got worse; right side pain; back pain; pain spreading; sharp pain; pain worse with deep breaths or moving; pain better when lying still; chills; fever (highest 104.2); tired; nauseous",
+            "negative": "Not recorded"
+        },
+        "current_visit": {
+            "chiefcomplaint": "side pain",
+            "pain": "10",
+            "medication": "albuterol; fluoxetine; fluticasone; ibuprofen; Seroquel",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "23606760": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "denies smoking",
+            "alcohol": "beer occasionally, 1-2 times/week",
+            "illicit_drug": "denies recreational drugs",
+            "sexual_history": "history of STIs (gonorrhea, chlamydia)"
+        },
+        "allergies": "denies allergies",
+        "medical_history": "high blood pressure; depression; similar pain episode before (untreated); history of STIs (gonorrhea, chlamydia)",
+        "family_medical_history": "mother: breast cancer; father: high blood pressure",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "back pain; belly pain; pain started 5 days ago; pain started in sides, moved to lower back; dull pain, sometimes sharp; pain worse with standing/moving; pain better with lying down; fever; chills; urine smells bad; urine feels funny; increased urination frequency; burning with urination; abdominal tenderness",
+            "negative": "denies weight loss; denies changes in appetite; denies recent injuries/falls; denies abdominal swelling; denies kidney problems"
+        },
+        "current_visit": {
+            "chiefcomplaint": "back pain; belly pain",
+            "pain": "8",
+            "medication": "blood pressure medication; Wellbutrin",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "28011287": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "quit long ago",
+            "alcohol": "wine sometimes, not much",
+            "illicit_drug": "no other drugs",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "No allergies",
+        "medical_history": "kidney stones; bladder issues",
+        "family_medical_history": "mom and brother had heart problems; mom had leukemia; brother had heart surgery",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "blood in pee; tummy hurts; can't go to the bathroom easily; clots in pee; pain started a few days ago; pain came after blood appeared; pain mostly in lower part; pain feels like a dull ache; sometimes pain is a bit sharp; sometimes it burns a little when peeing; bladder irrigation recently",
+            "negative": "no changes in frequency of urination; no fever; no chills; no nausea; no vomiting; no recent injuries; no recent infections; no recent medical procedures other than bladder irrigation; no changes in appetite; no weight gain or loss; no changes in bowel movements; no recent stressors or changes in life; no swelling in legs or abdomen"
+        },
+        "current_visit": {
+            "chiefcomplaint": "blood in pee; tummy hurts; can't go to the bathroom easily; clots in pee",
+            "pain": "3 or 4",
+            "medication": "aspirin; levothyroxine; metformin; some vitamins",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "29412428": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Retired",
+            "living_situation": "Not recorded",
+            "children": "Not recorded",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "Not recorded",
+            "tobacco": "Denies use",
+            "alcohol": "Denies use",
+            "illicit_drug": "Denies use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "Denies allergies",
+        "medical_history": "Kidney problems; kidney transplant; liver issues",
+        "family_medical_history": "No significant health issues",
+        "medical_device": "Kidney transplant",
+        "present_illness": {
+            "positive": "Stomach pain, started a few days ago, worsening; pain in belly button area spreading to lower back; dull ache; pressure; pain comes and goes, constant lately; dark urine; vomiting a couple days ago; decreased appetite; feeling weak; nausea",
+            "negative": "Pain worse with walking or eating; sharp pain; cramping pain; fever; chills; sweating; changes in bowel movements; diarrhea; constipation; changes in stool color"
+        },
+        "current_visit": {
+            "chiefcomplaint": "Stomach pain",
+            "pain": "8",
+            "medication": "Insulin; antibiotics; others for different conditions",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    },
+    "27601386": {
+        "demographics": {
+            "age": "Not recorded",
+            "gender": "Not recorded",
+            "race": "Not recorded",
+            "occupation": "Not recorded",
+            "living_situation": "Not recorded",
+            "children": "1 son",
+            "marital_status": "Not recorded",
+            "insurance": "Not recorded"
+        },
+        "social_history": {
+            "exercise": "walk a little",
+            "tobacco": "denies smoking",
+            "alcohol": "drinks sometimes with friends",
+            "illicit_drug": "denies drug use",
+            "sexual_history": "Not recorded"
+        },
+        "allergies": "memantine",
+        "medical_history": "dementia; hypothyroidism; depression",
+        "family_medical_history": "mom stomach cancer; dad head injury; son hemochromatosis",
+        "medical_device": "Not recorded",
+        "present_illness": {
+            "positive": "tummy pain for days; pain in lower belly; burning when peeing; always pain; feeling very hungry; urine smells funny",
+            "negative": "no nausea; no vomiting; no changes in bowel habits; no weight loss; no fever; no chills; no feeling unwell; no diarrhea; no constipation; no issues with swallowing; no pain when eating or drinking; no swelling in abdomen; no lumps or bumps"
+        },
+        "current_visit": {
+            "chiefcomplaint": "tummy pain",
+            "pain": "8",
+            "medication": "acetaminophen; alendronate; calcium; thyroid medication; depression medication",
+            "arrival_transport": "Not recorded",
+            "disposition": "Not recorded"
+        }
+    }
+}

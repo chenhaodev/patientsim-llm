@@ -1,0 +1,56 @@
+# PatientSim Model Configuration
+# Updated with latest models: deepseek-api, gpt-4.1-api, ollama:qwen3
+
+models:
+  # DeepSeek API - replaces deepseek-llama-70b, llama3.x, qwen2.5-72b
+  deepseek-api:
+    provider: deepseek
+    model_name: deepseek-chat
+    api_key_env: DEEPSEEK_API_KEY
+    base_url: https://api.deepseek.com/v1
+    temperature: 0.7
+    max_tokens: 2048
+
+  # GPT-4.1 API - replaces gpt-4o-mini and gemini-2.5-flash
+  gpt-4.1-api:
+    provider: openai
+    model_name: gpt-4-turbo-2024-04-09  # Update to actual GPT-4.1 model ID when available
+    api_key_env: OPENAI_API_KEY
+    base_url: https://api.openai.com/v1
+    temperature: 0.7
+    max_tokens: 2048
+
+  # Ollama Qwen3 - replaces qwen2.5-7b
+  ollama:qwen3:
+    provider: ollama
+    model_name: qwen3:latest
+    base_url: http://localhost:11434
+    temperature: 0.7
+    max_tokens: 2048
+
+# Default model assignments
+default_models:
+  doctor: gpt-4.1-api
+  patient: deepseek-api
+
+# Simulation settings
+simulation:
+  max_turns: 20
+  output_dir: ./simulation_output
+  save_intermediate: true
+
+# Persona settings
+persona:
+  cefr_levels: [A, B, C]  # Language proficiency
+  personality_types: [plain, distrust]
+  recall_levels: [low, medium, high]
+  dazed_levels: [normal, confused]
+
+# Patient profile
+patient_profile_path: ./patient_profile.json
+
+# Output format
+output:
+  dialogue_format: jsonl
+  label_format: json
+  include_metadata: true

@@ -1,0 +1,4227 @@
+{
+    "20495943": {
+        "I have bad stomach pain. It started two days ago and gets worse sometimes. I also feel nauseous.": {
+            "I have bad stomach pain.": {
+                "sentence": "I have bad stomach pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "It started two days ago and gets worse sometimes.": {
+                "sentence": "It started two days ago and gets worse sometimes.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I also feel nauseous.": {
+                "sentence": "I also feel nauseous.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            }
+        },
+        "Pain is near my belly button. It comes and goes, but it's very bad. Sometimes I feel like it's squeezing.": {
+            "Pain is near my belly button.": {
+                "sentence": "Pain is near my belly button.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It comes and goes, but it's very bad.": {
+                "sentence": "It comes and goes, but it's very bad.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Sometimes I feel like it's squeezing.": {
+                "sentence": "Sometimes I feel like it's squeezing.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I say 8, it's very bad. Makes me not want to eat or sleep. Hurts a lot when it happens.": {
+            "I say 8, it's very bad.": {
+                "sentence": "I say 8, it's very bad.",
+                "step0": "information",
+                "step1": [
+                    "pain"
+                ],
+                "step2-2": {
+                    "pain": "e"
+                }
+            },
+            "Makes me not want to eat or sleep.": {
+                "sentence": "Makes me not want to eat or sleep.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Hurts a lot when it happens.": {
+                "sentence": "Hurts a lot when it happens.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "pain"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "pain": "e"
+                }
+            }
+        },
+        "Sometimes belching helps a little. But constipation makes it worse, I think. Had similar pain before, but this time it's worse.": {
+            "Sometimes belching helps a little.": {
+                "sentence": "Sometimes belching helps a little.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "But constipation makes it worse, I think.": {
+                "sentence": "But constipation makes it worse, I think.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Had similar pain before, but this time it's worse.": {
+                "sentence": "Had similar pain before, but this time it's worse.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "Had it many times before, few times a year. Last time was a few months ago, but I didn't go to doctor. Just waited and it went away, but this time it's worse.": {
+            "Had it many times before, few times a year.": {
+                "sentence": "Had it many times before, few times a year.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Last time was a few months ago, but I didn't go to doctor.": {
+                "sentence": "Last time was a few months ago, but I didn't go to doctor.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Just waited and it went away, but this time it's worse.": {
+                "sentence": "Just waited and it went away, but this time it's worse.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I have gout, high blood pressure, and diverticulosis. Also, I have atrial fibrillation, but I had treatment for it. And I use CPAP for sleep apnea.": {
+            "I have gout, high blood pressure, and diverticulosis.": {
+                "sentence": "I have gout, high blood pressure, and diverticulosis.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "Also, I have atrial fibrillation, but I had treatment for it.": {
+                "sentence": "Also, I have atrial fibrillation, but I had treatment for it.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "And I use CPAP for sleep apnea.": {
+                "sentence": "And I use CPAP for sleep apnea.",
+                "step0": "information",
+                "step1": [
+                    "medical_device",
+                    "medical_history",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medical_device": "e",
+                    "medical_history": "e"
+                }
+            }
+        },
+        "I'm allergic to penicillins and sulfa antibiotics. Had bad reactions before, so I must avoid them.": {
+            "I'm allergic to penicillins and sulfa antibiotics.": {
+                "sentence": "I'm allergic to penicillins and sulfa antibiotics.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "Had bad reactions before, so I must avoid them.": {
+                "sentence": "Had bad reactions before, so I must avoid them.",
+                "step0": "non-information"
+            }
+        },
+        "I take metoprolol for blood pressure, tamsulosin for prostate, and Xarelto for blood clots. That's all, I think.": {
+            "I take metoprolol for blood pressure, tamsulosin for prostate, and Xarelto for blood clots.": {
+                "sentence": "I take metoprolol for blood pressure, tamsulosin for prostate, and Xarelto for blood clots.",
+                "step0": "information",
+                "step1": [
+                    "unsupported",
+                    "medication",
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medication": "e",
+                    "medical_history": "e"
+                }
+            },
+            "That's all, I think.": {
+                "sentence": "That's all, I think.",
+                "step0": "non-information"
+            }
+        },
+        "I used to smoke, but I quit long time ago. I drink a little, like wine or beer, maybe one or two times a week. No recreational drugs, no.": {
+            "I used to smoke, but I quit long time ago.": {
+                "sentence": "I used to smoke, but I quit long time ago.",
+                "step0": "information",
+                "step1": [
+                    "tobacco"
+                ],
+                "step2-2": {
+                    "tobacco": "e"
+                }
+            },
+            "I drink a little, like wine or beer, maybe one or two times a week.": {
+                "sentence": "I drink a little, like wine or beer, maybe one or two times a week.",
+                "step0": "information",
+                "step1": [
+                    "alcohol"
+                ],
+                "step2-2": {
+                    "alcohol": "e"
+                }
+            },
+            "No recreational drugs, no.": {
+                "sentence": "No recreational drugs, no.",
+                "step0": "information",
+                "step1": [
+                    "illicit_drug"
+                ],
+                "step2-2": {
+                    "illicit_drug": "e"
+                }
+            }
+        },
+        "No one in my family had stomach cancer or bad stomach problems. My family is okay, I think. No big health issues that I know of.": {
+            "No one in my family had stomach cancer or bad stomach problems.": {
+                "sentence": "No one in my family had stomach cancer or bad stomach problems.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "My family is okay, I think.": {
+                "sentence": "My family is okay, I think.",
+                "step0": "non-information"
+            },
+            "No big health issues that I know of.": {
+                "sentence": "No big health issues that I know of.",
+                "step0": "non-information"
+            }
+        },
+        "I have nausea and some vomiting, but not much. Also, I have constipation sometimes, and then diarrhea. And I feel tired, very tired.": {
+            "I have nausea and some vomiting, but not much.": {
+                "sentence": "I have nausea and some vomiting, but not much.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "Also, I have constipation sometimes, and then diarrhea.": {
+                "sentence": "Also, I have constipation sometimes, and then diarrhea.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "And I feel tired, very tired.": {
+                "sentence": "And I feel tired, very tired.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "Constipation and diarrhea happen with the pain. When pain comes, constipation comes, and then sometimes diarrhea. It's been happening more often, especially with these episodes of pain.": {
+            "Constipation and diarrhea happen with the pain.": {
+                "sentence": "Constipation and diarrhea happen with the pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "When pain comes, constipation comes, and then sometimes diarrhea.": {
+                "sentence": "When pain comes, constipation comes, and then sometimes diarrhea.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It's been happening more often, especially with these episodes of pain.": {
+                "sentence": "It's been happening more often, especially with these episodes of pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I don't want to eat when I have pain. And I lost weight, but I was trying to, so that's good. I've been eating less and exercising, so weight loss was expected.": {
+            "I don't want to eat when I have pain.": {
+                "sentence": "I don't want to eat when I have pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "And I lost weight, but I was trying to, so that's good.": {
+                "sentence": "And I lost weight, but I was trying to, so that's good.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I've been eating less and exercising, so weight loss was expected.": {
+                "sentence": "I've been eating less and exercising, so weight loss was expected.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "No travel, just normal life. I did start diet and exercise to lose weight, but nothing new or different with food that I think would cause this.": {
+            "No travel, just normal life.": {
+                "sentence": "No travel, just normal life.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I did start diet and exercise to lose weight, but nothing new or different with food that I think would cause this.": {
+                "sentence": "I did start diet and exercise to lose weight, but nothing new or different with food that I think would cause this.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        }
+    },
+    "21989543": {
+        "I have abdominal pain. It started three days ago and doesn't stop. I also have fever.": {
+            "I have abdominal pain.": {
+                "sentence": "I have abdominal pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "It started three days ago and doesn't stop.": {
+                "sentence": "It started three days ago and doesn't stop.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I also have fever.": {
+                "sentence": "I also have fever.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            }
+        },
+        "It's all over, but worse here. I point to my right lower side and epigastric area. It's constant cramping.": {
+            "It's all over, but worse here.": {
+                "sentence": "It's all over, but worse here.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I point to my right lower side and epigastric area.": {
+                "sentence": "I point to my right lower side and epigastric area.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It's constant cramping.": {
+                "sentence": "It's constant cramping.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I say 5. It's bad, but I had worse before. I also have headache and nausea.": {
+            "I say 5.": {
+                "sentence": "I say 5.",
+                "step0": "information",
+                "step1": [
+                    "pain"
+                ],
+                "step2-2": {
+                    "pain": "e"
+                }
+            },
+            "It's bad, but I had worse before.": {
+                "sentence": "It's bad, but I had worse before.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I also have headache and nausea.": {
+                "sentence": "I also have headache and nausea.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "No, nothing makes it better. Eating doesn't change it, and I haven't eaten much anyway because I feel sick. I have obstipation, no bowel movement for three days.": {
+            "No, nothing makes it better.": {
+                "sentence": "No, nothing makes it better.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Eating doesn't change it, and I haven't eaten much anyway because I feel sick.": {
+                "sentence": "Eating doesn't change it, and I haven't eaten much anyway because I feel sick.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I have obstipation, no bowel movement for three days.": {
+                "sentence": "I have obstipation, no bowel movement for three days.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "No vomiting, just nausea. And I don't think I've peed much, but I'm not sure. I had some blood from my nose this morning, too.": {
+            "No vomiting, just nausea.": {
+                "sentence": "No vomiting, just nausea.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "And I don't think I've peed much, but I'm not sure.": {
+                "sentence": "And I don't think I've peed much, but I'm not sure.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I had some blood from my nose this morning, too.": {
+                "sentence": "I had some blood from my nose this morning, too.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I'm allergic to penicillins and cephalosporins. I tell my doctors that so they don't give me those.": {
+            "I'm allergic to penicillins and cephalosporins.": {
+                "sentence": "I'm allergic to penicillins and cephalosporins.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "I tell my doctors that so they don't give me those.": {
+                "sentence": "I tell my doctors that so they don't give me those.",
+                "step0": "non-information"
+            }
+        },
+        "Yes, I take many. Calcium, vitamin D, immune globulin, and multivitamin. Also, Colace and Mephyton.": {
+            "Yes, I take many.": {
+                "sentence": "Yes, I take many.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "Calcium, vitamin D, immune globulin, and multivitamin.": {
+                "sentence": "Calcium, vitamin D, immune globulin, and multivitamin.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "Also, Colace and Mephyton.": {
+                "sentence": "Also, Colace and Mephyton.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            }
+        },
+        "I have many conditions. Osteomyelitis, anemia, psoriasis, and some immune problems. I also had surgeries, like removal of my port and a big surgery on my belly.": {
+            "I have many conditions.": {
+                "sentence": "I have many conditions.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "Osteomyelitis, anemia, psoriasis, and some immune problems.": {
+                "sentence": "Osteomyelitis, anemia, psoriasis, and some immune problems.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I also had surgeries, like removal of my port and a big surgery on my belly.": {
+                "sentence": "I also had surgeries, like removal of my port and a big surgery on my belly.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            }
+        },
+        "Yes, I had problems before. I had sepsis and infections, and my belly got very sick. I also have some diseases that affect my bones and skin, like osteoporosis and psoriasis.": {
+            "Yes, I had problems before.": {
+                "sentence": "Yes, I had problems before.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I had sepsis and infections, and my belly got very sick.": {
+                "sentence": "I had sepsis and infections, and my belly got very sick.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I also have some diseases that affect my bones and skin, like osteoporosis and psoriasis.": {
+                "sentence": "I also have some diseases that affect my bones and skin, like osteoporosis and psoriasis.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            }
+        },
+        "No, I don't smoke, drink, or use drugs. I don't do any of those things.": {
+            "No, I don't smoke, drink, or use drugs.": {
+                "sentence": "No, I don't smoke, drink, or use drugs.",
+                "step0": "information",
+                "step1": [
+                    "tobacco",
+                    "alcohol",
+                    "illicit_drug"
+                ],
+                "step2-2": {
+                    "tobacco": "e",
+                    "alcohol": "e",
+                    "illicit_drug": "e"
+                }
+            },
+            "I don't do any of those things.": {
+                "sentence": "I don't do any of those things.",
+                "step0": "information",
+                "step1": [
+                    "tobacco",
+                    "alcohol",
+                    "illicit_drug"
+                ],
+                "step2-2": {
+                    "tobacco": "e",
+                    "alcohol": "e",
+                    "illicit_drug": "e"
+                }
+            }
+        },
+        "No, my family doesn't have what I have. I'm the only one with these problems. Nobody else in my family has immune issues like me.": {
+            "No, my family doesn't have what I have.": {
+                "sentence": "No, my family doesn't have what I have.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "I'm the only one with these problems.": {
+                "sentence": "I'm the only one with these problems.",
+                "step0": "non-information"
+            },
+            "Nobody else in my family has immune issues like me.": {
+                "sentence": "Nobody else in my family has immune issues like me.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            }
+        }
+    },
+    "21989771": {
+        "I have chest pain. It started two days ago. Hurts when I move around.": {
+            "I have chest pain.": {
+                "sentence": "I have chest pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "It started two days ago.": {
+                "sentence": "It started two days ago.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Hurts when I move around.": {
+                "sentence": "Hurts when I move around.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "It's like pressure, not sharp. Hurts in my chest, middle part. Gets better when I rest.": {
+            "It's like pressure, not sharp.": {
+                "sentence": "It's like pressure, not sharp.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Hurts in my chest, middle part.": {
+                "sentence": "Hurts in my chest, middle part.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Gets better when I rest.": {
+                "sentence": "Gets better when I rest.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I say 3. It was worse before, but now it's a little better.": {
+            "I say 3.": {
+                "sentence": "I say 3.",
+                "step0": "information",
+                "step1": [
+                    "pain"
+                ],
+                "step2-2": {
+                    "pain": "e"
+                }
+            },
+            "It was worse before, but now it's a little better.": {
+                "sentence": "It was worse before, but now it's a little better.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "No, it's just in my chest. Doesn't go to my arms or back. Just chest pain.": {
+            "No, it's just in my chest.": {
+                "sentence": "No, it's just in my chest.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Doesn't go to my arms or back.": {
+                "sentence": "Doesn't go to my arms or back.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Just chest pain.": {
+                "sentence": "Just chest pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            }
+        },
+        "I get short of breath. When I walk, I feel it. No nausea, though.": {
+            "I get short of breath.": {
+                "sentence": "I get short of breath.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "When I walk, I feel it.": {
+                "sentence": "When I walk, I feel it.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "No nausea, though.": {
+                "sentence": "No nausea, though.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I have high blood pressure and high cholesterol. Doctor gives me medicine for that. No previous chest pain like this, though.": {
+            "I have high blood pressure and high cholesterol.": {
+                "sentence": "I have high blood pressure and high cholesterol.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "Doctor gives me medicine for that.": {
+                "sentence": "Doctor gives me medicine for that.",
+                "step0": "non-information"
+            },
+            "No previous chest pain like this, though.": {
+                "sentence": "No previous chest pain like this, though.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "No surgeries. I have back pain, sciatica, and spinal stenosis. That's all.": {
+            "No surgeries.": {
+                "sentence": "No surgeries.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I have back pain, sciatica, and spinal stenosis.": {
+                "sentence": "I have back pain, sciatica, and spinal stenosis.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "That's all.": {
+                "sentence": "That's all.",
+                "step0": "non-information"
+            }
+        },
+        "No allergies. I can take any medicine. No problems with food either.": {
+            "No allergies.": {
+                "sentence": "No allergies.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "I can take any medicine.": {
+                "sentence": "I can take any medicine.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "No problems with food either.": {
+                "sentence": "No problems with food either.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            }
+        },
+        "I take aspirin, atenolol, and atorvastatin. Also, ibuprofen for pain, and some vitamins.": {
+            "I take aspirin, atenolol, and atorvastatin.": {
+                "sentence": "I take aspirin, atenolol, and atorvastatin.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "Also, ibuprofen for pain, and some vitamins.": {
+                "sentence": "Also, ibuprofen for pain, and some vitamins.",
+                "step0": "information",
+                "step1": [
+                    "medication",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            }
+        },
+        "I used to smoke, but quit 10 years ago. I drink a little, maybe one or two drinks a week. No other drugs.": {
+            "I used to smoke, but quit 10 years ago.": {
+                "sentence": "I used to smoke, but quit 10 years ago.",
+                "step0": "information",
+                "step1": [
+                    "tobacco"
+                ],
+                "step2-2": {
+                    "tobacco": "e"
+                }
+            },
+            "I drink a little, maybe one or two drinks a week.": {
+                "sentence": "I drink a little, maybe one or two drinks a week.",
+                "step0": "information",
+                "step1": [
+                    "alcohol"
+                ],
+                "step2-2": {
+                    "alcohol": "e"
+                }
+            },
+            "No other drugs.": {
+                "sentence": "No other drugs.",
+                "step0": "information",
+                "step1": [
+                    "illicit_drug"
+                ],
+                "step2-2": {
+                    "illicit_drug": "e"
+                }
+            }
+        },
+        "My mom had heart issues. My dad had ulcers and migraines. One sibling died, but I don't know what happened.": {
+            "My mom had heart issues.": {
+                "sentence": "My mom had heart issues.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "My dad had ulcers and migraines.": {
+                "sentence": "My dad had ulcers and migraines.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "One sibling died, but I don't know what happened.": {
+                "sentence": "One sibling died, but I don't know what happened.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            }
+        },
+        "I'm okay. A little worried about this chest pain. But I'm not too stressed, just want to feel better.": {
+            "I'm okay.": {
+                "sentence": "I'm okay.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "A little worried about this chest pain.": {
+                "sentence": "A little worried about this chest pain.",
+                "step0": "non-information"
+            },
+            "But I'm not too stressed, just want to feel better.": {
+                "sentence": "But I'm not too stressed, just want to feel better.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "Yes, when I walk or move around, I get short of breath. Resting helps me feel better.": {
+            "Yes, when I walk or move around, I get short of breath.": {
+                "sentence": "Yes, when I walk or move around, I get short of breath.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Resting helps me feel better.": {
+                "sentence": "Resting helps me feel better.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "No recent illnesses. I've been feeling okay, just this chest pain. No weight changes either.": {
+            "No recent illnesses.": {
+                "sentence": "No recent illnesses.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I've been feeling okay, just this chest pain.": {
+                "sentence": "I've been feeling okay, just this chest pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "No weight changes either.": {
+                "sentence": "No weight changes either.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I don't do much, because of my back pain. I don't exert myself too much. Just normal daily things.": {
+            "I don't do much, because of my back pain.": {
+                "sentence": "I don't do much, because of my back pain.",
+                "step0": "information",
+                "step1": [
+                    "exercise"
+                ],
+                "step2-2": {
+                    "exercise": "e"
+                }
+            },
+            "I don't exert myself too much.": {
+                "sentence": "I don't exert myself too much.",
+                "step0": "information",
+                "step1": [
+                    "exercise"
+                ],
+                "step2-2": {
+                    "exercise": "e"
+                }
+            },
+            "Just normal daily things.": {
+                "sentence": "Just normal daily things.",
+                "step0": "information",
+                "step1": [
+                    "exercise"
+                ],
+                "step2-2": {
+                    "exercise": "e"
+                }
+            }
+        },
+        "I sleep okay. Chest pain doesn't wake me up. I sleep through the night, no problems.": {
+            "I sleep okay.": {
+                "sentence": "I sleep okay.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Chest pain doesn't wake me up.": {
+                "sentence": "Chest pain doesn't wake me up.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I sleep through the night, no problems.": {
+                "sentence": "I sleep through the night, no problems.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I'm retired, so no job stress. I live with my wife, and everything is okay at home. No big changes lately.": {
+            "I'm retired, so no job stress.": {
+                "sentence": "I'm retired, so no job stress.",
+                "step0": "information",
+                "step1": [
+                    "occupation",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "occupation": "e"
+                }
+            },
+            "I live with my wife, and everything is okay at home.": {
+                "sentence": "I live with my wife, and everything is okay at home.",
+                "step0": "information",
+                "step1": [
+                    "living_situation",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "living_situation": "e"
+                }
+            },
+            "No big changes lately.": {
+                "sentence": "No big changes lately.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        }
+    },
+    "23382950": {
+        "I feel dizzy. I have been feeling tired and having trouble breathing. My family helped me come here.": {
+            "I feel dizzy.": {
+                "sentence": "I feel dizzy.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "I have been feeling tired and having trouble breathing.": {
+                "sentence": "I have been feeling tired and having trouble breathing.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "My family helped me come here.": {
+                "sentence": "My family helped me come here.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "It started few days ago. I also have cold, my nose is running. I feel weak when I stand up.": {
+            "It started few days ago.": {
+                "sentence": "It started few days ago.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I also have cold, my nose is running.": {
+                "sentence": "I also have cold, my nose is running.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I feel weak when I stand up.": {
+                "sentence": "I feel weak when I stand up.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "It's worse when I stand. I need help to walk, even short distances. Sometimes I feel like I might fall.": {
+            "It's worse when I stand.": {
+                "sentence": "It's worse when I stand.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I need help to walk, even short distances.": {
+                "sentence": "I need help to walk, even short distances.",
+                "step0": "information",
+                "step1": [
+                    "exercise"
+                ],
+                "step2-2": {
+                    "exercise": "e"
+                }
+            },
+            "Sometimes I feel like I might fall.": {
+                "sentence": "Sometimes I feel like I might fall.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "No, no chest pain. I don't have cough or fever either. Just feel dizzy and tired, and my nose is running.": {
+            "No, no chest pain.": {
+                "sentence": "No, no chest pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I don't have cough or fever either.": {
+                "sentence": "I don't have cough or fever either.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Just feel dizzy and tired, and my nose is running.": {
+                "sentence": "Just feel dizzy and tired, and my nose is running.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I have high blood pressure and heart problems. I also have COPD and take many medicines for them. I have a pacemaker too.": {
+            "I have high blood pressure and heart problems.": {
+                "sentence": "I have high blood pressure and heart problems.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I also have COPD and take many medicines for them.": {
+                "sentence": "I also have COPD and take many medicines for them.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I have a pacemaker too.": {
+                "sentence": "I have a pacemaker too.",
+                "step0": "information",
+                "step1": [
+                    "medical_device"
+                ],
+                "step2-2": {
+                    "medical_device": "e"
+                }
+            }
+        },
+        "Yes, I take many medicines. Albuterol, amlodipine, aspirin, and levothyroxine. I also take vitamins and calcium. My family helps me remember.": {
+            "Yes, I take many medicines.": {
+                "sentence": "Yes, I take many medicines.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "Albuterol, amlodipine, aspirin, and levothyroxine.": {
+                "sentence": "Albuterol, amlodipine, aspirin, and levothyroxine.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "I also take vitamins and calcium.": {
+                "sentence": "I also take vitamins and calcium.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "My family helps me remember.": {
+                "sentence": "My family helps me remember.",
+                "step0": "non-information"
+            }
+        },
+        "No changes recently. I take same medicines for long time. My doctor checks them regularly, and my family helps me take them.": {
+            "No changes recently.": {
+                "sentence": "No changes recently.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I take same medicines for long time.": {
+                "sentence": "I take same medicines for long time.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "My doctor checks them regularly, and my family helps me take them.": {
+                "sentence": "My doctor checks them regularly, and my family helps me take them.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "No allergies. My doctor knows my medicines, and I don't have problems. I can take all my medicines without issues.": {
+            "No allergies.": {
+                "sentence": "No allergies.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "My doctor knows my medicines, and I don't have problems.": {
+                "sentence": "My doctor knows my medicines, and I don't have problems.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "I can take all my medicines without issues.": {
+                "sentence": "I can take all my medicines without issues.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            }
+        },
+        "I used to smoke, but I stopped long time ago. I don't drink alcohol, maybe sometimes little bit. No drugs, I don't use them.": {
+            "I used to smoke, but I stopped long time ago.": {
+                "sentence": "I used to smoke, but I stopped long time ago.",
+                "step0": "information",
+                "step1": [
+                    "tobacco"
+                ],
+                "step2-2": {
+                    "tobacco": "e"
+                }
+            },
+            "I don't drink alcohol, maybe sometimes little bit.": {
+                "sentence": "I don't drink alcohol, maybe sometimes little bit.",
+                "step0": "information",
+                "step1": [
+                    "alcohol"
+                ],
+                "step2-2": {
+                    "alcohol": "e"
+                }
+            },
+            "No drugs, I don't use them.": {
+                "sentence": "No drugs, I don't use them.",
+                "step0": "information",
+                "step1": [
+                    "illicit_drug"
+                ],
+                "step2-2": {
+                    "illicit_drug": "e"
+                }
+            }
+        },
+        "My family history is okay. No big problems that I know. My children are healthy, and my husband passed away. I had breast cancer, but that was long time ago.": {
+            "My family history is okay.": {
+                "sentence": "My family history is okay.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "No big problems that I know.": {
+                "sentence": "No big problems that I know.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "My children are healthy, and my husband passed away.": {
+                "sentence": "My children are healthy, and my husband passed away.",
+                "step0": "information",
+                "step1": [
+                    "marital_status",
+                    "children"
+                ],
+                "step2-2": {
+                    "marital_status": "e",
+                    "children": "e"
+                }
+            },
+            "I had breast cancer, but that was long time ago.": {
+                "sentence": "I had breast cancer, but that was long time ago.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            }
+        },
+        "I use my inhalers, albuterol and arformoterol. They help me breathe. Lately, I've been using them more often, and I feel a bit more tired.": {
+            "I use my inhalers, albuterol and arformoterol.": {
+                "sentence": "I use my inhalers, albuterol and arformoterol.",
+                "step0": "information",
+                "step1": [
+                    "medication",
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medication": "e",
+                    "medical_history": "e"
+                }
+            },
+            "They help me breathe.": {
+                "sentence": "They help me breathe.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Lately, I've been using them more often, and I feel a bit more tired.": {
+                "sentence": "Lately, I've been using them more often, and I feel a bit more tired.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "My dizziness is bad, I say 8. It's hard for me to stand up without feeling like I will fall.": {
+            "My dizziness is bad, I say 8.": {
+                "sentence": "My dizziness is bad, I say 8.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It's hard for me to stand up without feeling like I will fall.": {
+                "sentence": "It's hard for me to stand up without feeling like I will fall.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "Resting helps a little. Eating is hard, I don't feel like eating much. Drinking water is okay, but sometimes I feel dizzy when I stand up to go to bathroom.": {
+            "Resting helps a little.": {
+                "sentence": "Resting helps a little.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Eating is hard, I don't feel like eating much.": {
+                "sentence": "Eating is hard, I don't feel like eating much.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Drinking water is okay, but sometimes I feel dizzy when I stand up to go to bathroom.": {
+                "sentence": "Drinking water is okay, but sometimes I feel dizzy when I stand up to go to bathroom.",
+                "step0": "information",
+                "step1": [
+                    "unsupported",
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I don't eat much now. I lost weight, yes. Food doesn't taste good, and I feel tired after eating. My family tries to help me eat, but it's hard.": {
+            "I don't eat much now.": {
+                "sentence": "I don't eat much now.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I lost weight, yes.": {
+                "sentence": "I lost weight, yes.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Food doesn't taste good, and I feel tired after eating.": {
+                "sentence": "Food doesn't taste good, and I feel tired after eating.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "My family tries to help me eat, but it's hard.": {
+                "sentence": "My family tries to help me eat, but it's hard.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "Sleep is okay, I think. I sleep a lot during day, but at night, it's okay. My family helps me, they check on me. I don't know, I just feel tired all time.": {
+            "Sleep is okay, I think.": {
+                "sentence": "Sleep is okay, I think.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I sleep a lot during day, but at night, it's okay.": {
+                "sentence": "I sleep a lot during day, but at night, it's okay.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "My family helps me, they check on me.": {
+                "sentence": "My family helps me, they check on me.",
+                "step0": "non-information"
+            },
+            "I don't know, I just feel tired all time.": {
+                "sentence": "I don't know, I just feel tired all time.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I have cold now, like I said. Runny nose, yes. That's all, just cold and tired and dizzy.": {
+            "I have cold now, like I said.": {
+                "sentence": "I have cold now, like I said.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Runny nose, yes.": {
+                "sentence": "Runny nose, yes.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "That's all, just cold and tired and dizzy.": {
+                "sentence": "That's all, just cold and tired and dizzy.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "No, my pacemaker helps. I don't feel my heart beating fast. It's just the dizziness and tiredness that's the problem.": {
+            "No, my pacemaker helps.": {
+                "sentence": "No, my pacemaker helps.",
+                "step0": "information",
+                "step1": [
+                    "medical_device"
+                ],
+                "step2-2": {
+                    "medical_device": "e"
+                }
+            },
+            "I don't feel my heart beating fast.": {
+                "sentence": "I don't feel my heart beating fast.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It's just the dizziness and tiredness that's the problem.": {
+                "sentence": "It's just the dizziness and tiredness that's the problem.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        }
+    },
+    "27125508": {
+        "I have cough and fever. I feel very tired. I was brought here by ambulance.": {
+            "I have cough and fever.": {
+                "sentence": "I have cough and fever.",
+                "step0": "information",
+                "step1": [
+                    "chief_complaint",
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "chief_complaint": "e",
+                    "present_illness": "e"
+                }
+            },
+            "I feel very tired.": {
+                "sentence": "I feel very tired.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I was brought here by ambulance.": {
+                "sentence": "I was brought here by ambulance.",
+                "step0": "information",
+                "step1": [
+                    "arrival_transport"
+                ],
+                "step2-2": {
+                    "arrival_transport": "e"
+                }
+            }
+        },
+        "It started few days ago. I don't know exactly when, but I feel worse now. I have chills too.": {
+            "It started few days ago.": {
+                "sentence": "It started few days ago.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I don't know exactly when, but I feel worse now.": {
+                "sentence": "I don't know exactly when, but I feel worse now.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I have chills too.": {
+                "sentence": "I have chills too.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "My cough is productive. I cough up yellow phlegm. It's hard to breathe sometimes.": {
+            "My cough is productive.": {
+                "sentence": "My cough is productive.",
+                "step0": "information",
+                "step1": [
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "chief_complaint": "e"
+                }
+            },
+            "I cough up yellow phlegm.": {
+                "sentence": "I cough up yellow phlegm.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "It's hard to breathe sometimes.": {
+                "sentence": "It's hard to breathe sometimes.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            }
+        },
+        "I say 8. It's very bad. I feel like I need more air.": {
+            "I say 8.": {
+                "sentence": "I say 8.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "It's very bad.": {
+                "sentence": "It's very bad.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I feel like I need more air.": {
+                "sentence": "I feel like I need more air.",
+                "step0": "information",
+                "step1": [
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "chief_complaint": "e"
+                }
+            }
+        },
+        "No, no chest pain. Just hard to breathe and cough a lot. I feel tired, very tired.": {
+            "No, no chest pain.": {
+                "sentence": "No, no chest pain.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Just hard to breathe and cough a lot.": {
+                "sentence": "Just hard to breathe and cough a lot.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "I feel tired, very tired.": {
+                "sentence": "I feel tired, very tired.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I eat less now. Not hungry like before. I lost some weight, I think.": {
+            "I eat less now.": {
+                "sentence": "I eat less now.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Not hungry like before.": {
+                "sentence": "Not hungry like before.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I lost some weight, I think.": {
+                "sentence": "I lost some weight, I think.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "No travel. I stay home, go to work. My family is healthy, I think.": {
+            "No travel.": {
+                "sentence": "No travel.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I stay home, go to work.": {
+                "sentence": "I stay home, go to work.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "My family is healthy, I think.": {
+                "sentence": "My family is healthy, I think.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "c"
+                }
+            }
+        },
+        "I have diabetes and high blood pressure. I take medicine for it.": {
+            "I have diabetes and high blood pressure.": {
+                "sentence": "I have diabetes and high blood pressure.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I take medicine for it.": {
+                "sentence": "I take medicine for it.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I take metformin for diabetes. For blood pressure, I take losartan and metoprolol.": {
+            "I take metformin for diabetes.": {
+                "sentence": "I take metformin for diabetes.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "medication",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medical_history": "e",
+                    "medication": "e"
+                }
+            },
+            "For blood pressure, I take losartan and metoprolol.": {
+                "sentence": "For blood pressure, I take losartan and metoprolol.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "medication",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medical_history": "e",
+                    "medication": "e"
+                }
+            }
+        },
+        "No allergies. I don't react bad to anything.": {
+            "No allergies.": {
+                "sentence": "No allergies.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "I don't react bad to anything.": {
+                "sentence": "I don't react bad to anything.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            }
+        },
+        "I don't smoke. I drink little alcohol, maybe one or two drinks a week. No other drugs.": {
+            "I don't smoke.": {
+                "sentence": "I don't smoke.",
+                "step0": "information",
+                "step1": [
+                    "tobacco"
+                ],
+                "step2-2": {
+                    "tobacco": "e"
+                }
+            },
+            "I drink little alcohol, maybe one or two drinks a week.": {
+                "sentence": "I drink little alcohol, maybe one or two drinks a week.",
+                "step0": "information",
+                "step1": [
+                    "alcohol"
+                ],
+                "step2-2": {
+                    "alcohol": "e"
+                }
+            },
+            "No other drugs.": {
+                "sentence": "No other drugs.",
+                "step0": "information",
+                "step1": [
+                    "illicit_drug"
+                ],
+                "step2-2": {
+                    "illicit_drug": "e"
+                }
+            }
+        },
+        "My father had breast cancer. Some aunts had breast cancer too. My brother is healthy, I think.": {
+            "My father had breast cancer.": {
+                "sentence": "My father had breast cancer.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "Some aunts had breast cancer too.": {
+                "sentence": "Some aunts had breast cancer too.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "My brother is healthy, I think.": {
+                "sentence": "My brother is healthy, I think.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I have fevers at night. I sweat a lot. No skin rashes, I don't think.": {
+            "I have fevers at night.": {
+                "sentence": "I have fevers at night.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I sweat a lot.": {
+                "sentence": "I sweat a lot.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "No skin rashes, I don't think.": {
+                "sentence": "No skin rashes, I don't think.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I'm very tired. I don't have energy. Hard to do things, even walk.": {
+            "I'm very tired.": {
+                "sentence": "I'm very tired.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I don't have energy.": {
+                "sentence": "I don't have energy.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Hard to do things, even walk.": {
+                "sentence": "Hard to do things, even walk.",
+                "step0": "information",
+                "step1": [
+                    "exercise"
+                ],
+                "step2-2": {
+                    "exercise": "c"
+                },
+                "step2-1": null
+            }
+        },
+        "I have anxiety. I take medicine for it, clonazepam and fluoxetine. Helps a little.": {
+            "I have anxiety.": {
+                "sentence": "I have anxiety.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I take medicine for it, clonazepam and fluoxetine.": {
+                "sentence": "I take medicine for it, clonazepam and fluoxetine.",
+                "step0": "information",
+                "step1": [
+                    "unsupported",
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "Helps a little.": {
+                "sentence": "Helps a little.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "No recent infections. Just this cough and fever now. It's getting worse.": {
+            "No recent infections.": {
+                "sentence": "No recent infections.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Just this cough and fever now.": {
+                "sentence": "Just this cough and fever now.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "It's getting worse.": {
+                "sentence": "It's getting worse.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I don't remember. I think I had flu shot last year. Not sure about pneumonia shot.": {
+            "I don't remember.": {
+                "sentence": "I don't remember.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I think I had flu shot last year.": {
+                "sentence": "I think I had flu shot last year.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Not sure about pneumonia shot.": {
+                "sentence": "Not sure about pneumonia shot.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "My legs swell sometimes. I have neuropathy from diabetes. Urination is okay, I think.": {
+            "My legs swell sometimes.": {
+                "sentence": "My legs swell sometimes.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I have neuropathy from diabetes.": {
+                "sentence": "I have neuropathy from diabetes.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "Urination is okay, I think.": {
+                "sentence": "Urination is okay, I think.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        }
+    },
+    "27306920": {
+        "I have bad stomach pain. It started at 2 am today. I also feel nauseous.": {
+            "I have bad stomach pain.": {
+                "sentence": "I have bad stomach pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "It started at 2 am today.": {
+                "sentence": "It started at 2 am today.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I also feel nauseous.": {
+                "sentence": "I also feel nauseous.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "Pain is here, in the middle. It comes and goes, very bad pain. Makes me vomit, too.": {
+            "Pain is here, in the middle.": {
+                "sentence": "Pain is here, in the middle.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It comes and goes, very bad pain.": {
+                "sentence": "It comes and goes, very bad pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "pain"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "pain": "e"
+                }
+            },
+            "Makes me vomit, too.": {
+                "sentence": "Makes me vomit, too.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I say 9, it's very bad. Pain is making me sweat and feel chills. Hard to stand it.": {
+            "I say 9, it's very bad.": {
+                "sentence": "I say 9, it's very bad.",
+                "step0": "information",
+                "step1": [
+                    "pain"
+                ],
+                "step2-2": {
+                    "pain": "e"
+                }
+            },
+            "Pain is making me sweat and feel chills.": {
+                "sentence": "Pain is making me sweat and feel chills.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Hard to stand it.": {
+                "sentence": "Hard to stand it.",
+                "step0": "non-information"
+            }
+        },
+        "Nothing makes it better. Pain just keeps coming back. I haven't eaten, because I feel nauseous.": {
+            "Nothing makes it better.": {
+                "sentence": "Nothing makes it better.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Pain just keeps coming back.": {
+                "sentence": "Pain just keeps coming back.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I haven't eaten, because I feel nauseous.": {
+                "sentence": "I haven't eaten, because I feel nauseous.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I have had stomach problems before, like epigastric pain. I take omeprazole for it. But this pain is different.": {
+            "I have had stomach problems before, like epigastric pain.": {
+                "sentence": "I have had stomach problems before, like epigastric pain.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I take omeprazole for it.": {
+                "sentence": "I take omeprazole for it.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "medication"
+                ],
+                "step2-2": {
+                    "medical_history": "e",
+                    "medication": "e"
+                }
+            },
+            "But this pain is different.": {
+                "sentence": "But this pain is different.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "Yes, I take many medicines. Everolimus, morphine, and others for my cancer and other problems. I can tell you all if you want.": {
+            "Yes, I take many medicines.": {
+                "sentence": "Yes, I take many medicines.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "Everolimus, morphine, and others for my cancer and other problems.": {
+                "sentence": "Everolimus, morphine, and others for my cancer and other problems.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "unsupported",
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e",
+                    "medical_history": "e"
+                }
+            },
+            "I can tell you all if you want.": {
+                "sentence": "I can tell you all if you want.",
+                "step0": "non-information"
+            }
+        },
+        "I take everolimus, morphine, levothyroxine, metoprolol, and some others. Also, ferrous sulfate, montelukast, and prednisone. That's all I remember now.": {
+            "I take everolimus, morphine, levothyroxine, metoprolol, and some others.": {
+                "sentence": "I take everolimus, morphine, levothyroxine, metoprolol, and some others.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "Also, ferrous sulfate, montelukast, and prednisone.": {
+                "sentence": "Also, ferrous sulfate, montelukast, and prednisone.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "That's all I remember now.": {
+                "sentence": "That's all I remember now.",
+                "step0": "non-information"
+            }
+        },
+        "Yes, I'm allergic to levofloxacin and iodine contrast. Also, IV dye, I think. My doctor told me to avoid them.": {
+            "Yes, I'm allergic to levofloxacin and iodine contrast.": {
+                "sentence": "Yes, I'm allergic to levofloxacin and iodine contrast.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "Also, IV dye, I think.": {
+                "sentence": "Also, IV dye, I think.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "My doctor told me to avoid them.": {
+                "sentence": "My doctor told me to avoid them.",
+                "step0": "non-information"
+            }
+        },
+        "I have hypertension, atrial fibrillation, and asthma. Also, arthritis and chronic back pain. I had a nephrectomy and hysterectomy before.": {
+            "I have hypertension, atrial fibrillation, and asthma.": {
+                "sentence": "I have hypertension, atrial fibrillation, and asthma.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "Also, arthritis and chronic back pain.": {
+                "sentence": "Also, arthritis and chronic back pain.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I had a nephrectomy and hysterectomy before.": {
+                "sentence": "I had a nephrectomy and hysterectomy before.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            }
+        },
+        "No, I don't smoke. I drink a little alcohol, maybe one or two drinks a week. I don't use other drugs, no.": {
+            "No, I don't smoke.": {
+                "sentence": "No, I don't smoke.",
+                "step0": "information",
+                "step1": [
+                    "tobacco"
+                ],
+                "step2-2": {
+                    "tobacco": "e"
+                }
+            },
+            "I drink a little alcohol, maybe one or two drinks a week.": {
+                "sentence": "I drink a little alcohol, maybe one or two drinks a week.",
+                "step0": "information",
+                "step1": [
+                    "alcohol"
+                ],
+                "step2-2": {
+                    "alcohol": "e"
+                }
+            },
+            "I don't use other drugs, no.": {
+                "sentence": "I don't use other drugs, no.",
+                "step0": "information",
+                "step1": [
+                    "illicit_drug"
+                ],
+                "step2-2": {
+                    "illicit_drug": "e"
+                }
+            }
+        },
+        "My father had heart problems, he died from that. My mother passed away, but I don't know what she died from. No one in my family had stomach problems like this.": {
+            "My father had heart problems, he died from that.": {
+                "sentence": "My father had heart problems, he died from that.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "My mother passed away, but I don't know what she died from.": {
+                "sentence": "My mother passed away, but I don't know what she died from.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "No one in my family had stomach problems like this.": {
+                "sentence": "No one in my family had stomach problems like this.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            }
+        },
+        "I'm constipated, haven't had a normal bowel movement in three days. And when I did go, it was a little and the stool was brown and mauve, not normal.": {
+            "I'm constipated, haven't had a normal bowel movement in three days.": {
+                "sentence": "I'm constipated, haven't had a normal bowel movement in three days.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "And when I did go, it was a little and the stool was brown and mauve, not normal.": {
+                "sentence": "And when I did go, it was a little and the stool was brown and mauve, not normal.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "No fever, but I have been losing weight. My cancer treatment makes me lose appetite. That's all I can think of now.": {
+            "No fever, but I have been losing weight.": {
+                "sentence": "No fever, but I have been losing weight.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "My cancer treatment makes me lose appetite.": {
+                "sentence": "My cancer treatment makes me lose appetite.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "That's all I can think of now.": {
+                "sentence": "That's all I can think of now.",
+                "step0": "non-information"
+            }
+        },
+        "I lost weight since my cancer treatment started. I don't know exactly how much, but it's been a few months now.": {
+            "I lost weight since my cancer treatment started.": {
+                "sentence": "I lost weight since my cancer treatment started.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I don't know exactly how much, but it's been a few months now.": {
+                "sentence": "I don't know exactly how much, but it's been a few months now.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "My treatment is ongoing, no changes recently. Just this stomach pain and nausea, and constipation, that's new.": {
+            "My treatment is ongoing, no changes recently.": {
+                "sentence": "My treatment is ongoing, no changes recently.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Just this stomach pain and nausea, and constipation, that's new.": {
+                "sentence": "Just this stomach pain and nausea, and constipation, that's new.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        }
+    },
+    "28213778": {
+        "I'm having trouble breathing. My heart beats very fast sometimes. I feel weak and dizzy.": {
+            "I'm having trouble breathing.": {
+                "sentence": "I'm having trouble breathing.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "My heart beats very fast sometimes.": {
+                "sentence": "My heart beats very fast sometimes.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I feel weak and dizzy.": {
+                "sentence": "I feel weak and dizzy.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "It started this morning, gradually. I woke up and felt short of breath. It's been getting worse since then.": {
+            "It started this morning, gradually.": {
+                "sentence": "It started this morning, gradually.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I woke up and felt short of breath.": {
+                "sentence": "I woke up and felt short of breath.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It's been getting worse since then.": {
+                "sentence": "It's been getting worse since then.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "It's in my chest, I think. I feel it all the time, it doesn't stop. Sometimes it's worse when I cough.": {
+            "It's in my chest, I think.": {
+                "sentence": "It's in my chest, I think.",
+                "step0": "non-information"
+            },
+            "I feel it all the time, it doesn't stop.": {
+                "sentence": "I feel it all the time, it doesn't stop.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Sometimes it's worse when I cough.": {
+                "sentence": "Sometimes it's worse when I cough.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I have a cough, sometimes with yellow or black sputum. No chest pain, though. My legs are also swollen, and I feel weak.": {
+            "I have a cough, sometimes with yellow or black sputum.": {
+                "sentence": "I have a cough, sometimes with yellow or black sputum.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "No chest pain, though.": {
+                "sentence": "No chest pain, though.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "My legs are also swollen, and I feel weak.": {
+                "sentence": "My legs are also swollen, and I feel weak.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I have heart disease and breathing problems. I've had surgery before, and I use a Pleurex catheter for fluid in my lungs. I also take many medications.": {
+            "I have heart disease and breathing problems.": {
+                "sentence": "I have heart disease and breathing problems.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I've had surgery before, and I use a Pleurex catheter for fluid in my lungs.": {
+                "sentence": "I've had surgery before, and I use a Pleurex catheter for fluid in my lungs.",
+                "step0": "information",
+                "step1": [
+                    "medical_device",
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_device": "e",
+                    "medical_history": "e"
+                }
+            },
+            "I also take many medications.": {
+                "sentence": "I also take many medications.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            }
+        },
+        "I take albuterol, digoxin, and torsemide. Also, some antibiotics: ethambutol, isoniazid, and pyrazinamide. And a few others, like quetiapine and lansoprazole.": {
+            "I take albuterol, digoxin, and torsemide.": {
+                "sentence": "I take albuterol, digoxin, and torsemide.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "Also, some antibiotics: ethambutol, isoniazid, and pyrazinamide.": {
+                "sentence": "Also, some antibiotics: ethambutol, isoniazid, and pyrazinamide.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "And a few others, like quetiapine and lansoprazole.": {
+                "sentence": "And a few others, like quetiapine and lansoprazole.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            }
+        },
+        "No allergies, I don't think so. I've never had a problem with any medicine or food that I know of.": {
+            "No allergies, I don't think so.": {
+                "sentence": "No allergies, I don't think so.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "I've never had a problem with any medicine or food that I know of.": {
+                "sentence": "I've never had a problem with any medicine or food that I know of.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            }
+        },
+        "No, I don't smoke or drink much. I don't use any other drugs either. I don't have much energy, so I don't do much exercise, just rest at home.": {
+            "No, I don't smoke or drink much.": {
+                "sentence": "No, I don't smoke or drink much.",
+                "step0": "information",
+                "step1": [
+                    "tobacco",
+                    "alcohol"
+                ],
+                "step2-2": {
+                    "tobacco": "e",
+                    "alcohol": "e"
+                }
+            },
+            "I don't use any other drugs either.": {
+                "sentence": "I don't use any other drugs either.",
+                "step0": "information",
+                "step1": [
+                    "illicit_drug"
+                ],
+                "step2-2": {
+                    "illicit_drug": "e"
+                }
+            },
+            "I don't have much energy, so I don't do much exercise, just rest at home.": {
+                "sentence": "I don't have much energy, so I don't do much exercise, just rest at home.",
+                "step0": "information",
+                "step1": [
+                    "exercise"
+                ],
+                "step2-2": {
+                    "exercise": "e"
+                }
+            }
+        },
+        "My mother died young, I don't know why. My father had an accident. My brother had a stroke, I think. That's all I know about my family's health.": {
+            "My mother died young, I don't know why.": {
+                "sentence": "My mother died young, I don't know why.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "My father had an accident.": {
+                "sentence": "My father had an accident.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "My brother had a stroke, I think.": {
+                "sentence": "My brother had a stroke, I think.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "That's all I know about my family's health.": {
+                "sentence": "That's all I know about my family's health.",
+                "step0": "non-information"
+            }
+        },
+        "No fever, no night sweats. I don't think I've lost or gained weight recently. Just feel weak and short of breath, like I said.": {
+            "No fever, no night sweats.": {
+                "sentence": "No fever, no night sweats.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I don't think I've lost or gained weight recently.": {
+                "sentence": "I don't think I've lost or gained weight recently.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Just feel weak and short of breath, like I said.": {
+                "sentence": "Just feel weak and short of breath, like I said.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I'd say it's bad, but I don't feel pain, so... my breathing is hard, but no pain. I was told it's a 0 for pain, but my breathing is the problem.": {
+            "I'd say it's bad, but I don't feel pain, so... my breathing is hard, but no pain.": {
+                "sentence": "I'd say it's bad, but I don't feel pain, so... my breathing is hard, but no pain.",
+                "step0": "information",
+                "step1": [
+                    "pain"
+                ],
+                "step2-2": {
+                    "pain": "e"
+                }
+            },
+            "I was told it's a 0 for pain, but my breathing is the problem.": {
+                "sentence": "I was told it's a 0 for pain, but my breathing is the problem.",
+                "step0": "information",
+                "step1": [
+                    "pain",
+                    "chief_complaint",
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "pain": "e",
+                    "chief_complaint": "e",
+                    "present_illness": "e"
+                }
+            }
+        },
+        "Yes, it's worse when I cough. Sometimes when I move around, it gets harder to breathe. But I don't do much, I just rest.": {
+            "Yes, it's worse when I cough.": {
+                "sentence": "Yes, it's worse when I cough.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "Sometimes when I move around, it gets harder to breathe.": {
+                "sentence": "Sometimes when I move around, it gets harder to breathe.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "But I don't do much, I just rest.": {
+                "sentence": "But I don't do much, I just rest.",
+                "step0": "information",
+                "step1": [
+                    "exercise"
+                ],
+                "step2-2": {
+                    "exercise": "e"
+                }
+            }
+        },
+        "Just my legs, I think. They're swollen, but I don't feel anything else swollen. Maybe a little in my feet, too.": {
+            "Just my legs, I think.": {
+                "sentence": "Just my legs, I think.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "They're swollen, but I don't feel anything else swollen.": {
+                "sentence": "They're swollen, but I don't feel anything else swollen.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Maybe a little in my feet, too.": {
+                "sentence": "Maybe a little in my feet, too.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "Yes, I've been to the hospital before. I had a tracheostomy and a Pleurex catheter put in. I've had surgeries for my heart and lungs, too.": {
+            "Yes, I've been to the hospital before.": {
+                "sentence": "Yes, I've been to the hospital before.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I had a tracheostomy and a Pleurex catheter put in.": {
+                "sentence": "I had a tracheostomy and a Pleurex catheter put in.",
+                "step0": "information",
+                "step1": [
+                    "medical_device"
+                ],
+                "step2-2": {
+                    "medical_device": "e"
+                }
+            },
+            "I've had surgeries for my heart and lungs, too.": {
+                "sentence": "I've had surgeries for my heart and lungs, too.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            }
+        },
+        "I had TB, tuberculosis. I was on antibiotics for it. And I had some fluid in my lungs, so they put in the Pleurex catheter.": {
+            "I had TB, tuberculosis.": {
+                "sentence": "I had TB, tuberculosis.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I was on antibiotics for it.": {
+                "sentence": "I was on antibiotics for it.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "And I had some fluid in my lungs, so they put in the Pleurex catheter.": {
+                "sentence": "And I had some fluid in my lungs, so they put in the Pleurex catheter.",
+                "step0": "information",
+                "step1": [
+                    "medical_device",
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_device": "e",
+                    "medical_history": "e"
+                }
+            }
+        }
+    },
+    "28932307": {
+        "I'm feeling weak. My right leg and arm not feeling right. I had stroke before, maybe related?": {
+            "I'm feeling weak.": {
+                "sentence": "I'm feeling weak.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "My right leg and arm not feeling right.": {
+                "sentence": "My right leg and arm not feeling right.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I had stroke before, maybe related?": {
+                "sentence": "I had stroke before, maybe related?",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            }
+        },
+        "About one week ago. It's getting worse, and my speech is also not clear. I feel lethargic too.": {
+            "About one week ago.": {
+                "sentence": "About one week ago.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It's getting worse, and my speech is also not clear.": {
+                "sentence": "It's getting worse, and my speech is also not clear.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I feel lethargic too.": {
+                "sentence": "I feel lethargic too.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "Mild discomfort, but no pain. My right leg feels \"not right\", and I have some numbness. Also, my mouth feels more wet than usual.": {
+            "Mild discomfort, but no pain.": {
+                "sentence": "Mild discomfort, but no pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "pain"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "pain": "e"
+                }
+            },
+            "My right leg feels \"not right\", and I have some numbness.": {
+                "sentence": "My right leg feels \"not right\", and I have some numbness.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medical_history": "e",
+                    "present_illness": "e"
+                }
+            },
+            "Also, my mouth feels more wet than usual.": {
+                "sentence": "Also, my mouth feels more wet than usual.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I've been feeling run down. Not much change in daily activities, just limited walking due to old stroke and osteoarthritis. I've been doing physical therapy as prescribed.": {
+            "I've been feeling run down.": {
+                "sentence": "I've been feeling run down.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Not much change in daily activities, just limited walking due to old stroke and osteoarthritis.": {
+                "sentence": "Not much change in daily activities, just limited walking due to old stroke and osteoarthritis.",
+                "step0": "information",
+                "step1": [
+                    "exercise",
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "exercise": "e",
+                    "medical_history": "e"
+                }
+            },
+            "I've been doing physical therapy as prescribed.": {
+                "sentence": "I've been doing physical therapy as prescribed.",
+                "step0": "information",
+                "step1": [
+                    "exercise"
+                ],
+                "step2-2": {
+                    "exercise": "e"
+                }
+            }
+        },
+        "I take amlodipine, aspirin, and atorvastatin for blood pressure and heart. Also, some eye drops and creams for other issues. My list is long, I can try to recall all.": {
+            "I take amlodipine, aspirin, and atorvastatin for blood pressure and heart.": {
+                "sentence": "I take amlodipine, aspirin, and atorvastatin for blood pressure and heart.",
+                "step0": "information",
+                "step1": [
+                    "medication",
+                    "medical_history",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medication": "e",
+                    "medical_history": "e"
+                }
+            },
+            "Also, some eye drops and creams for other issues.": {
+                "sentence": "Also, some eye drops and creams for other issues.",
+                "step0": "information",
+                "step1": [
+                    "medication",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "My list is long, I can try to recall all.": {
+                "sentence": "My list is long, I can try to recall all.",
+                "step0": "non-information"
+            }
+        },
+        "Yes, I'm allergic to Viagra. Doctor told me before, so I avoid it. No other allergies that I know of.": {
+            "Yes, I'm allergic to Viagra.": {
+                "sentence": "Yes, I'm allergic to Viagra.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "Doctor told me before, so I avoid it.": {
+                "sentence": "Doctor told me before, so I avoid it.",
+                "step0": "non-information"
+            },
+            "No other allergies that I know of.": {
+                "sentence": "No other allergies that I know of.",
+                "step0": "non-information"
+            }
+        },
+        "My sister had a stroke. I've had one too, and high blood pressure and heart disease. It seems to run in family.": {
+            "My sister had a stroke.": {
+                "sentence": "My sister had a stroke.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "I've had one too, and high blood pressure and heart disease.": {
+                "sentence": "I've had one too, and high blood pressure and heart disease.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "It seems to run in family.": {
+                "sentence": "It seems to run in family.",
+                "step0": "non-information"
+            }
+        },
+        "I used to smoke, but quit 5 years ago. I drink alcohol sometimes, not often. Just occasionally, that's all.": {
+            "I used to smoke, but quit 5 years ago.": {
+                "sentence": "I used to smoke, but quit 5 years ago.",
+                "step0": "information",
+                "step1": [
+                    "tobacco"
+                ],
+                "step2-2": {
+                    "tobacco": "e"
+                }
+            },
+            "I drink alcohol sometimes, not often.": {
+                "sentence": "I drink alcohol sometimes, not often.",
+                "step0": "information",
+                "step1": [
+                    "alcohol"
+                ],
+                "step2-2": {
+                    "alcohol": "e"
+                }
+            },
+            "Just occasionally, that's all.": {
+                "sentence": "Just occasionally, that's all.",
+                "step0": "information",
+                "step1": [
+                    "alcohol"
+                ],
+                "step2-2": {
+                    "alcohol": "e"
+                }
+            }
+        },
+        "I feel somewhat run down, but no big changes in mood. Just worried about my health, that's all. My speech has been bothering me, that's why I came here.": {
+            "I feel somewhat run down, but no big changes in mood.": {
+                "sentence": "I feel somewhat run down, but no big changes in mood.",
+                "step0": "information",
+                "step1": [
+                    "unsupported",
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Just worried about my health, that's all.": {
+                "sentence": "Just worried about my health, that's all.",
+                "step0": "non-information"
+            },
+            "My speech has been bothering me, that's why I came here.": {
+                "sentence": "My speech has been bothering me, that's why I came here.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        }
+    },
+    "29301234": {
+        "I have chest pain. It started at 3 am today. It feels like my old angina.": {
+            "I have chest pain.": {
+                "sentence": "I have chest pain.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "It started at 3 am today.": {
+                "sentence": "It started at 3 am today.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It feels like my old angina.": {
+                "sentence": "It feels like my old angina.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "The pain is about 5. It's tightness on the left side of my chest. My left arm and hand feel numb too.": {
+            "The pain is about 5.": {
+                "sentence": "The pain is about 5.",
+                "step0": "information",
+                "step1": [
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "chief_complaint": "e"
+                }
+            },
+            "It's tightness on the left side of my chest.": {
+                "sentence": "It's tightness on the left side of my chest.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "My left arm and hand feel numb too.": {
+                "sentence": "My left arm and hand feel numb too.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "Nothing makes it worse. I took baby aspirin and prasugrel at home, like I did before. It didn't change much.": {
+            "Nothing makes it worse.": {
+                "sentence": "Nothing makes it worse.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I took baby aspirin and prasugrel at home, like I did before.": {
+                "sentence": "I took baby aspirin and prasugrel at home, like I did before.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It didn't change much.": {
+                "sentence": "It didn't change much.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "Pain started at 3 am, I came here after a few hours. It's been about the same, not worse, not better.": {
+            "Pain started at 3 am, I came here after a few hours.": {
+                "sentence": "Pain started at 3 am, I came here after a few hours.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It's been about the same, not worse, not better.": {
+                "sentence": "It's been about the same, not worse, not better.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "No, none of those. Just chest pain and numbness in my left arm and hand. That's all.": {
+            "No, none of those.": {
+                "sentence": "No, none of those.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Just chest pain and numbness in my left arm and hand.": {
+                "sentence": "Just chest pain and numbness in my left arm and hand.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "That's all.": {
+                "sentence": "That's all.",
+                "step0": "non-information"
+            }
+        },
+        "I have heart disease, high blood pressure, and high cholesterol. I had a stent put in my heart before, and I take medications for it.": {
+            "I have heart disease, high blood pressure, and high cholesterol.": {
+                "sentence": "I have heart disease, high blood pressure, and high cholesterol.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I had a stent put in my heart before, and I take medications for it.": {
+                "sentence": "I had a stent put in my heart before, and I take medications for it.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            }
+        },
+        "Yes, I take many medicines. Aspirin, atenolol, and others for my heart and other conditions. I also take medicines for depression and diabetes.": {
+            "Yes, I take many medicines.": {
+                "sentence": "Yes, I take many medicines.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "Aspirin, atenolol, and others for my heart and other conditions.": {
+                "sentence": "Aspirin, atenolol, and others for my heart and other conditions.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "medication",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medication": "e",
+                    "medical_history": "e"
+                }
+            },
+            "I also take medicines for depression and diabetes.": {
+                "sentence": "I also take medicines for depression and diabetes.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                },
+                "step2-1": null
+            }
+        },
+        "I'm allergic to some medicines, like NSAIDs and Keflex. I also carry a bee sting kit with me.": {
+            "I'm allergic to some medicines, like NSAIDs and Keflex.": {
+                "sentence": "I'm allergic to some medicines, like NSAIDs and Keflex.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "I also carry a bee sting kit with me.": {
+                "sentence": "I also carry a bee sting kit with me.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            }
+        },
+        "I used to smoke, but I quit. I drink a little, maybe 1 or 2 drinks a week. I don't use any other drugs.": {
+            "I used to smoke, but I quit.": {
+                "sentence": "I used to smoke, but I quit.",
+                "step0": "information",
+                "step1": [
+                    "tobacco"
+                ],
+                "step2-2": {
+                    "tobacco": "e"
+                }
+            },
+            "I drink a little, maybe 1 or 2 drinks a week.": {
+                "sentence": "I drink a little, maybe 1 or 2 drinks a week.",
+                "step0": "information",
+                "step1": [
+                    "alcohol"
+                ],
+                "step2-2": {
+                    "alcohol": "e"
+                }
+            },
+            "I don't use any other drugs.": {
+                "sentence": "I don't use any other drugs.",
+                "step0": "information",
+                "step1": [
+                    "illicit_drug"
+                ],
+                "step2-2": {
+                    "illicit_drug": "e"
+                }
+            }
+        },
+        "My father had diabetes and a heart attack. That's all I know about my family's health.": {
+            "My father had diabetes and a heart attack.": {
+                "sentence": "My father had diabetes and a heart attack.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "That's all I know about my family's health.": {
+                "sentence": "That's all I know about my family's health.",
+                "step0": "non-information"
+            }
+        },
+        "I have been a bit tired lately, but my weight and appetite are okay. I also have sleep apnea, which might affect my energy.": {
+            "I have been a bit tired lately, but my weight and appetite are okay.": {
+                "sentence": "I have been a bit tired lately, but my weight and appetite are okay.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I also have sleep apnea, which might affect my energy.": {
+                "sentence": "I also have sleep apnea, which might affect my energy.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            }
+        },
+        "I have depression and anxiety, and I take medicine for it. Nothing new is stressing me, just the usual.": {
+            "I have depression and anxiety, and I take medicine for it.": {
+                "sentence": "I have depression and anxiety, and I take medicine for it.",
+                "step0": "information",
+                "step1": [
+                    "unsupported",
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "Nothing new is stressing me, just the usual.": {
+                "sentence": "Nothing new is stressing me, just the usual.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I see my doctor regularly for check-ups. I had a procedure to put a stent in my heart, but that was a while ago.": {
+            "I see my doctor regularly for check-ups.": {
+                "sentence": "I see my doctor regularly for check-ups.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I had a procedure to put a stent in my heart, but that was a while ago.": {
+                "sentence": "I had a procedure to put a stent in my heart, but that was a while ago.",
+                "step0": "information",
+                "step1": [
+                    "medical_device"
+                ],
+                "step2-2": {
+                    "medical_device": "e"
+                }
+            }
+        },
+        "My last check-up was a few months ago. I didn't have any concerning symptoms then, just routine check-up.": {
+            "My last check-up was a few months ago.": {
+                "sentence": "My last check-up was a few months ago.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I didn't have any concerning symptoms then, just routine check-up.": {
+                "sentence": "I didn't have any concerning symptoms then, just routine check-up.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I try to walk a little, but not too much. I don't have a special diet, just try to eat healthy.": {
+            "I try to walk a little, but not too much.": {
+                "sentence": "I try to walk a little, but not too much.",
+                "step0": "information",
+                "step1": [
+                    "exercise"
+                ],
+                "step2-2": {
+                    "exercise": "e"
+                }
+            },
+            "I don't have a special diet, just try to eat healthy.": {
+                "sentence": "I don't have a special diet, just try to eat healthy.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I had angina before, it feels similar. My doctor told me what to do when it happens, that's why I took aspirin and prasugrel.": {
+            "I had angina before, it feels similar.": {
+                "sentence": "I had angina before, it feels similar.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "My doctor told me what to do when it happens, that's why I took aspirin and prasugrel.": {
+                "sentence": "My doctor told me what to do when it happens, that's why I took aspirin and prasugrel.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I have diabetes, high blood pressure, and high cholesterol. I also have bipolar and sleep apnea.": {
+            "I have diabetes, high blood pressure, and high cholesterol.": {
+                "sentence": "I have diabetes, high blood pressure, and high cholesterol.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I also have bipolar and sleep apnea.": {
+                "sentence": "I also have bipolar and sleep apnea.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            }
+        }
+    },
+    "29378580": {
+        "I have weakness on my left side. My vision is blurry too. I came here by ambulance.": {
+            "I have weakness on my left side.": {
+                "sentence": "I have weakness on my left side.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "present_illness": "e",
+                    "chief_complaint": "e"
+                }
+            },
+            "My vision is blurry too.": {
+                "sentence": "My vision is blurry too.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I came here by ambulance.": {
+                "sentence": "I came here by ambulance.",
+                "step0": "information",
+                "step1": [
+                    "arrival_transport"
+                ],
+                "step2-2": {
+                    "arrival_transport": "e"
+                }
+            }
+        },
+        "It started few hours ago. I was walking and my left leg felt heavy. It got worse slowly.": {
+            "It started few hours ago.": {
+                "sentence": "It started few hours ago.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I was walking and my left leg felt heavy.": {
+                "sentence": "I was walking and my left leg felt heavy.",
+                "step0": "information",
+                "step1": [
+                    "unsupported",
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It got worse slowly.": {
+                "sentence": "It got worse slowly.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "Vision problem started same time as weakness. I see dark spots, can't see clearly. It's getting worse, I think.": {
+            "Vision problem started same time as weakness.": {
+                "sentence": "Vision problem started same time as weakness.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I see dark spots, can't see clearly.": {
+                "sentence": "I see dark spots, can't see clearly.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "It's getting worse, I think.": {
+                "sentence": "It's getting worse, I think.",
+                "step0": "information",
+                "step1": [
+                    "present_illness",
+                    "unsupported"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "I say 7, it's bad. My left side feels very weak and I'm having trouble seeing.": {
+            "I say 7, it's bad.": {
+                "sentence": "I say 7, it's bad.",
+                "step0": "information",
+                "step1": [
+                    "pain"
+                ],
+                "step2-2": {
+                    "pain": "e"
+                }
+            },
+            "My left side feels very weak and I'm having trouble seeing.": {
+                "sentence": "My left side feels very weak and I'm having trouble seeing.",
+                "step0": "information",
+                "step1": [
+                    "chief_complaint"
+                ],
+                "step2-2": {
+                    "chief_complaint": "e"
+                }
+            }
+        },
+        "My voice sounds different. I feel tingling too, on my left side. No headache, though.": {
+            "My voice sounds different.": {
+                "sentence": "My voice sounds different.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I feel tingling too, on my left side.": {
+                "sentence": "I feel tingling too, on my left side.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "No headache, though.": {
+                "sentence": "No headache, though.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I had stroke before, left side was weak. I have lupus, and I take warfarin. Doctor said I have lupus anticoagulant.": {
+            "I had stroke before, left side was weak.": {
+                "sentence": "I had stroke before, left side was weak.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            },
+            "I have lupus, and I take warfarin.": {
+                "sentence": "I have lupus, and I take warfarin.",
+                "step0": "information",
+                "step1": [
+                    "medical_history",
+                    "medication"
+                ],
+                "step2-2": {
+                    "medical_history": "e",
+                    "medication": "e"
+                }
+            },
+            "Doctor said I have lupus anticoagulant.": {
+                "sentence": "Doctor said I have lupus anticoagulant.",
+                "step0": "information",
+                "step1": [
+                    "medical_history"
+                ],
+                "step2-2": {
+                    "medical_history": "e"
+                }
+            }
+        },
+        "Yes, I take Plaquenil, melatonin, trazodone, and Vitamin D. I also take magnesium and Wellbutrin SR.": {
+            "Yes, I take Plaquenil, melatonin, trazodone, and Vitamin D. I also take magnesium and Wellbutrin SR.": {
+                "sentence": "Yes, I take Plaquenil, melatonin, trazodone, and Vitamin D. I also take magnesium and Wellbutrin SR.",
+                "step0": "information",
+                "step1": [
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            }
+        },
+        "I'm allergic to Solu-Medrol, Augmentin, and Penicillins. I had bad reactions before.": {
+            "I'm allergic to Solu-Medrol, Augmentin, and Penicillins.": {
+                "sentence": "I'm allergic to Solu-Medrol, Augmentin, and Penicillins.",
+                "step0": "information",
+                "step1": [
+                    "allergies"
+                ],
+                "step2-2": {
+                    "allergies": "e"
+                }
+            },
+            "I had bad reactions before.": {
+                "sentence": "I had bad reactions before.",
+                "step0": "non-information"
+            }
+        },
+        "I don't smoke, no drugs. I drink alcohol sometimes, but not often. I just have a little when I'm with friends.": {
+            "I don't smoke, no drugs.": {
+                "sentence": "I don't smoke, no drugs.",
+                "step0": "information",
+                "step1": [
+                    "tobacco",
+                    "illicit_drug"
+                ],
+                "step2-2": {
+                    "tobacco": "e",
+                    "illicit_drug": "e"
+                }
+            },
+            "I drink alcohol sometimes, but not often.": {
+                "sentence": "I drink alcohol sometimes, but not often.",
+                "step0": "information",
+                "step1": [
+                    "alcohol"
+                ],
+                "step2-2": {
+                    "alcohol": "e"
+                }
+            },
+            "I just have a little when I'm with friends.": {
+                "sentence": "I just have a little when I'm with friends.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "My mother had hypothyroidism. That's all I know about my family's health problems.": {
+            "My mother had hypothyroidism.": {
+                "sentence": "My mother had hypothyroidism.",
+                "step0": "information",
+                "step1": [
+                    "family_medical_history"
+                ],
+                "step2-2": {
+                    "family_medical_history": "e"
+                }
+            },
+            "That's all I know about my family's health problems.": {
+                "sentence": "That's all I know about my family's health problems.",
+                "step0": "non-information"
+            }
+        },
+        "I work and take care of my family. I have two kids, and I live with my spouse. No big changes or stress, just normal life.": {
+            "I work and take care of my family.": {
+                "sentence": "I work and take care of my family.",
+                "step0": "information",
+                "step1": [
+                    "occupation"
+                ],
+                "step2-2": {
+                    "occupation": "e"
+                }
+            },
+            "I have two kids, and I live with my spouse.": {
+                "sentence": "I have two kids, and I live with my spouse.",
+                "step0": "information",
+                "step1": [
+                    "children",
+                    "living_situation"
+                ],
+                "step2-2": {
+                    "children": "e",
+                    "living_situation": "e"
+                }
+            },
+            "No big changes or stress, just normal life.": {
+                "sentence": "No big changes or stress, just normal life.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "I take melatonin to help me sleep. Sometimes I feel tired, but that's because of my lupus, I think.": {
+            "I take melatonin to help me sleep.": {
+                "sentence": "I take melatonin to help me sleep.",
+                "step0": "information",
+                "step1": [
+                    "unsupported",
+                    "medication"
+                ],
+                "step2-2": {
+                    "medication": "e"
+                }
+            },
+            "Sometimes I feel tired, but that's because of my lupus, I think.": {
+                "sentence": "Sometimes I feel tired, but that's because of my lupus, I think.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        },
+        "No, my appetite is okay. I don't think I gained or lost weight recently. Everything seems normal with that.": {
+            "No, my appetite is okay.": {
+                "sentence": "No, my appetite is okay.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            },
+            "I don't think I gained or lost weight recently.": {
+                "sentence": "I don't think I gained or lost weight recently.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "Everything seems normal with that.": {
+                "sentence": "Everything seems normal with that.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            }
+        },
+        "No, I didn't have fever or infection. I feel like this just started suddenly, with the weakness and blurry vision.": {
+            "No, I didn't have fever or infection.": {
+                "sentence": "No, I didn't have fever or infection.",
+                "step0": "information",
+                "step1": [
+                    "present_illness"
+                ],
+                "step2-2": {
+                    "present_illness": "e"
+                }
+            },
+            "I feel like this just started suddenly, with the weakness and blurry vision.": {
+                "sentence": "I feel like this just started suddenly, with the weakness and blurry vision.",
+                "step0": "information",
+                "step1": [
+                    "unsupported"
+                ],
+                "step2-1": null
+            }
+        }
+    }
+}

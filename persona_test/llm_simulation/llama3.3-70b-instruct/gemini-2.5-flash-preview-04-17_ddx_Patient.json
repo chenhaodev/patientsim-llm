@@ -1,0 +1,582 @@
+{
+    "22590895": {
+        "gt": "Pneumonia",
+        "pred": "it's completely understandable to feel overwhelmed, especially with everything you're experiencing. your concerns are valid, and feeling anxious doesn’t mean you’re losing your mind. let's summarize what we have so far, and i'll provide some possible concerns. based on your symptoms and history, here are some differential diagnoses to consider:1. **pneumonia** - given your cough, chills, and fever.2. **gastrointestinal issues** - such as pancreatitis or gastritis, considering your abdominal pain and alcohol use.3. **alcohol-related liver disease** - due to your history of alcoholism and symptoms like fatigue and weight loss.4. **tuberculosis** - especially with your exposure risk and respiratory symptoms.5. **anxiety disorder** - given your stress, anxiety, and reliance on alcohol for coping.it's important to follow up with a healthcare provider who can conduct further evaluations and provide support.",
+        "answer": "Y"
+    },
+    "29114252": {
+        "gt": "Cerebral infarction",
+        "pred": "thank you for providing all this information. based on what you've shared, here are my top five differential diagnoses for your symptoms: 1. cranial nerve palsy (specifically, cranial nerves iii, iv, or vi)2. thyroid eye disease (graves' disease)3. multiple sclerosis (demyelinating disease)4. vascular issues (such as transient ischemic attack)5. benign positional vertigo or vestibular disordersit's important to follow up with a healthcare professional for further evaluation. if you have any questions or concerns, please feel free to ask.",
+        "answer": "N"
+    },
+    "27420146": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for sharing that. your symptoms and history provide valuable insight. based on what you've told me, here are some potential differential diagnoses to consider:1. chemotherapy-induced side effects2. adrenal insufficiency3. infection (possibly related to recent chemotherapy)4. hypotension due to dehydration or medication effects5. electrolyte imbalanceplease continue to communicate with your healthcare team about your symptoms and concerns. they can provide the best support for your situation.",
+        "answer": "N"
+    },
+    "23330315": {
+        "gt": "Intestinal obstruction",
+        "pred": "lack of regular follow-up can indeed lead to complications, especially with conditions like ulcerative colitis. it's important to monitor your health closely. based on what you've shared, i want to summarize your situation: you have abdominal pain, nausea, bloody stools, weight loss, fatigue, and chills, all of which are concerning. here are some differential diagnoses to consider: 1. ulcerative colitis flare-up with possible complications (e.g., toxic megacolon, stricture)2. intestinal obstruction (possibly due to adhesions or strictures)3. infection (such as a gastrointestinal infection or sepsis)4. anemia or malabsorption due to chronic disease5. gastrointestinal bleeding from an unknown sourcei recommend seeking immediate medical evaluation to address these symptoms appropriately.",
+        "answer": "Y"
+    },
+    "23604831": {
+        "gt": "Cerebral infarction",
+        "pred": "i appreciate your patience throughout this process. based on what you've shared, i have gathered enough information for now. here are the top 5 differential diagnoses to consider:1. transient ischemic attack (tia)2. stroke3. peripheral neuropathy4. cervical radiculopathy5. anxiety or panic attackfurther evaluation will be necessary to clarify the cause of your symptoms. please consider discussing these findings with a healthcare professional for a thorough assessment.",
+        "answer": "Y"
+    },
+    "21413379": {
+        "gt": "Myocardial infarction",
+        "pred": "i appreciate your clarification, and i’m here to help you. based on what you've shared, here are some potential differential diagnoses to consider: 1. peptic ulcer disease 2. acute pancreatitis 3. gastritis 4. gallbladder disease (cholecystitis or gallstones) 5. cardiac-related issues (such as angina) it’s important that we conduct further assessments to pinpoint the exact cause of your symptoms.",
+        "answer": "N"
+    },
+    "27038358": {
+        "gt": "Intestinal obstruction",
+        "pred": "thank you for providing all that information. based on what you've shared, here are my top 5 differential diagnoses to consider:1. gastroenteritis (viral or bacterial)2. peptic ulcer disease3. gastric outlet obstruction (post-surgery complication)4. gallbladder disease (e.g., cholecystitis)5. medication-related gastrointestinal irritationit’s important to follow up with your healthcare provider for further evaluation and management. how are you feeling about everything we discussed?",
+        "answer": "N"
+    },
+    "27283178": {
+        "gt": "Intestinal obstruction",
+        "pred": "thank you for confirming that. i appreciate all the information you've provided. based on what you've shared, here are the top five differential diagnoses to consider: 1. acute gastroenteritis2. bowel obstruction (recurrence)3. medication side effects (from current medications)4. pancreatitis5. diverticulitisit’s important to follow up with your healthcare provider for a thorough evaluation and appropriate management. please take care, and i hope you feel better soon.",
+        "answer": "Y"
+    },
+    "26039330": {
+        "gt": "Pneumonia",
+        "pred": "thank you for sharing that detail. based on the information you've provided, here are the top 5 differential diagnoses to consider:1. pneumonia (possibly recurrent or not fully resolved)2. acute bronchitis3. chronic obstructive pulmonary disease (copd) exacerbation4. influenza (flu)5. covid-19it's important to follow up with a healthcare provider for a thorough evaluation and appropriate treatment. please take care of yourself.",
+        "answer": "Y"
+    },
+    "29945704": {
+        "gt": "Cerebral infarction",
+        "pred": "thank you for that information. based on what you've shared, here are the five most likely differential diagnoses to consider: 1. stroke or transient ischemic attack (tia)2. multiple sclerosis3. diabetic neuropathy exacerbation4. peripheral artery disease5. tumor or mass effect on the nervous systemit’s important to discuss these symptoms with a healthcare provider for further evaluation. how are you feeling about this information?",
+        "answer": "Y"
+    },
+    "21497511": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for clarifying that. based on what you’ve shared, i’d like to summarize some possible explanations for your symptoms. here are five differential diagnoses to consider: 1. gastroesophageal reflux disease (gerd)2. anxiety or panic attack3. musculoskeletal pain (due to strain or tension)4. cardiac issues related to your known heart condition5. esophageal spasmit’s important to follow up with your doctor for a thorough evaluation. if you have any questions or need further assistance, feel free to ask.",
+        "answer": "N"
+    },
+    "24572136": {
+        "gt": "Intestinal obstruction",
+        "pred": "i understand. thank you for your patience. based on what you've shared, here are the top 5 differential diagnoses to consider:1. acute bowel obstruction2. gastroenteritis3. constipation-related pain4. pancreatitis5. diverticulitisit's important to follow up with your healthcare team for further evaluation and treatment options.",
+        "answer": "Y"
+    },
+    "26949917": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "thank you for sharing all this information; it’s been very helpful. based on what you've told me, here are the top five differential diagnoses to consider:1. kidney stones (urolithiasis)2. urinary tract infection (uti) with possible pyelonephritis3. obstructive uropathy secondary to bladder cancer4. renal colic5. muscle strain or injury in the flank areai recommend discussing these possibilities further with your healthcare team to determine the best course of action. how are you feeling about everything we’ve discussed?",
+        "answer": "Y"
+    },
+    "21269586": {
+        "gt": "Myocardial infarction",
+        "pred": "i appreciate you providing that information. based on what you've shared, here are some possible reasons for your chest pain and shortness of breath: 1. acute coronary syndrome (acs)2. pulmonary embolism (pe)3. congestive heart failure (chf)4. atrial fibrillation-related complications5. pneumonia or other respiratory issuesit's crucial that you receive immediate evaluation and treatment. please hang in there; help is on the way.",
+        "answer": "Y"
+    },
+    "27334177": {
+        "gt": "Intestinal obstruction",
+        "pred": "it's great to have a positive outlook. based on what you've shared, here are some potential causes for your symptoms: 1. gastroenteritis (viral or bacterial)2. peptic ulcer disease 3. gallbladder issues (like gallstones)4. irritable bowel syndrome (ibs)5. medication side effects (from omeprazole or others)i recommend discussing your symptoms further with your healthcare provider for appropriate evaluation and management.",
+        "answer": "N"
+    },
+    "21031714": {
+        "gt": "Cerebral infarction",
+        "pred": "(1. orthostatic hypotension, 2. transient ischemic attack (tia), 3. inner ear issues, 4. medication side effects, 5. acute kidney problems). it's important to follow up with a healthcare professional for a thorough evaluation and appropriate treatment. please take care!",
+        "answer": "N"
+    },
+    "29815513": {
+        "gt": "Myocardial infarction",
+        "pred": "i understand how distressing that must be for you. it’s normal to feel worried when you're in pain. based on what you've told me, i want to summarize your symptoms and concerns so far. here are the top five differential diagnoses we should consider: 1. acute pancreatitis2. gastroenteritis3. peptic ulcer disease4. biliary colic or gallbladder disease5. mesenteric ischemiait’s important that we investigate further to find the right treatment for you. would you like to proceed with any specific questions or concerns?",
+        "answer": "N"
+    },
+    "21689125": {
+        "gt": "Pneumonia",
+        "pred": "thank you for the information. based on what you've described—sharp chest and back pain worsening when lying down, a dry cough, difficulty breathing, a history of asthma, and your allergies—here are some potential diagnoses to consider:1. pleuritis (inflammation of the lining of the lungs)2. asthma exacerbation3. pneumonia (even without fever)4. costochondritis (inflammation of the rib cage)5. pulmonary embolism (less likely but concerning)it's important to seek further evaluation to address your symptoms.",
+        "answer": "Y"
+    },
+    "20854204": {
+        "gt": "Intestinal obstruction",
+        "pred": "(gastroenteritis, peptic ulcer disease, bowel obstruction, medication side effects, gastroesophageal reflux disease)please let me know if you have any further questions or if there’s anything else you'd like to discuss!",
+        "answer": "Y"
+    },
+    "25774826": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "thank you for sharing that important information. based on everything you've told me, here are the top 5 differential diagnoses to consider:1. urinary tract infection (uti)2. kidney stones3. pyelonephritis (kidney infection)4. pelvic inflammatory disease (pid)5. gastrointestinal issues (such as diverticulitis)i recommend discussing these possibilities with your healthcare provider for further evaluation and management. how are you feeling about the information we've discussed?",
+        "answer": "Y"
+    },
+    "28034852": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "thank you for confirming that. based on the information you've provided, here are some possible causes for your symptoms:1. orthostatic hypotension (a drop in blood pressure when standing).2. dehydration or inadequate nutrition.3. medication side effects, especially related to blood pressure or anxiety medications.4. age-related balance issues or vestibular dysfunction.5. anxiety or stress-related dizziness.it's important to follow up with a healthcare professional for a thorough evaluation.",
+        "answer": "N"
+    },
+    "22753707": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "i can see how stressful this must be for you, and it's completely understandable to feel overwhelmed. based on everything you've shared, here are my top five differential diagnoses to consider:1. urinary tract infection (uti) or pyelonephritis2. diverticulitis or bowel obstruction3. exacerbation of copd or pneumonia4. acute kidney injury or renal issues5. anxiety-related symptoms contributing to your physical discomfortplease remember that only further evaluation can lead to a definitive diagnosis. i'm here to support you through this process.",
+        "answer": "Y"
+    },
+    "22480977": {
+        "gt": "Pneumonia",
+        "pred": "thank you for sharing that important family history. i appreciate your patience throughout this process. based on what you've told me, here are the top five differential diagnoses to consider: 1. acute bronchitis2. community-acquired pneumonia3. exacerbation of chronic respiratory condition4. sinusitis with secondary infection5. possible viral infectioni recommend we discuss treatment options based on these possibilities. would you like to go over those now?",
+        "answer": "Y"
+    },
+    "20041385": {
+        "gt": "Cerebral infarction",
+        "pred": "based on the information you've provided, here are the top five differential diagnoses to consider:\n\n1. **transient ischemic attack (tia)** - temporary disruption of blood flow to the brain, leading to sudden neurological symptoms.\n2. **stroke** - permanent damage from a lack of blood flow to the brain, which can cause numbness, clumsiness, and speech difficulties.\n3. **multiple sclerosis** - a neurological condition that can cause sudden changes in sensation and coordination.\n4. **peripheral neuropathy** - damage to the peripheral nerves, often leading to numbness and weakness, potentially related to medication or other underlying conditions.\n5. **medication-related side effects** - potential effects from recent changes in medication, such as piroxicam, that could contribute to your symptoms.\n\nit’s crucial to undergo further evaluation to confirm any of these possibilities. thank you for your engagement throughout this process.",
+        "answer": "Y"
+    },
+    "27700966": {
+        "gt": "Cerebral infarction",
+        "pred": "it's possible that your fatigue could be related to what's happening with your hand, but i need to consider all aspects of your health. based on what you've shared, here are some potential conditions that may be contributing to your symptoms: 1. stroke or transient ischemic attack (tia)2. peripheral neuropathy3. carpal tunnel syndrome4. multiple sclerosis5. myasthenia gravisi recommend you discuss these possibilities with your healthcare provider for further evaluation. you're doing the right thing by seeking help.",
+        "answer": "Y"
+    },
+    "22770178": {
+        "gt": "Pneumonia",
+        "pred": "it's good to hear that you don't have known allergies, as this can simplify managing your health. based on our conversation, we’ve covered a lot of ground regarding your symptoms, medical history, and lifestyle. here are five differential diagnoses to consider:1. neurological issue (e.g., nerve compression or stroke).2. infection (e.g., pneumonia or other respiratory infection).3. cancer recurrence or metastasis.4. medication side effects or interactions.5. immunodeficiency or autoimmune disorder.i recommend discussing these concerns with your healthcare provider for further evaluation and appropriate management. remember, i'm here to support you, and it's important to get the care you need.",
+        "answer": "Y"
+    },
+    "25146485": {
+        "gt": "Intestinal obstruction",
+        "pred": "i understand your frustration, and i appreciate your patience as we gather information. while i can access your records for some details, it's crucial to hear about your current experience directly. based on what you've shared, your symptoms may suggest a few possibilities, but i need to consider all factors before making any recommendations. i will summarize what i have so far and provide some potential differential diagnoses for your situation. here are my top five considerations: 1. intestinal obstruction2. adhesions from past surgeries3. ovarian cyst or related gynecological issue4. gastroenteritis or infection5. diverticulitisnext, we may need to evaluate your symptoms further, possibly including imaging or lab tests, to determine the best course of action. how does that sound to you?",
+        "answer": "Y"
+    },
+    "25166622": {
+        "gt": "Intestinal obstruction",
+        "pred": "thank you for letting me know. based on what you've shared, it sounds like you're experiencing some discomfort without many other concerning symptoms. i appreciate your patience as i gather this information. here are my top five differential diagnoses based on what we've discussed:1. gastroenteritis (viral or bacterial)2. constipation3. gastritis or peptic ulcer disease4. diverticulitis5. early signs of bowel obstructionplease let me know if you have any questions or if there's anything else you'd like to discuss.",
+        "answer": "Y"
+    },
+    "29488199": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for sharing that. based on the symptoms you've described, here are the top 5 differential diagnoses to consider: 1. costochondritis (inflammation of the rib cartilage)2. pulmonary embolism (blood clot in the lung)3. pleuritis (inflammation of the lung lining)4. musculoskeletal strain (from playing football)5. viral infection (such as a cold or flu)it's important to monitor your symptoms closely and consider seeking further evaluation if they worsen. please take care of yourself, and let me know if you have any questions.",
+        "answer": "N"
+    },
+    "24373781": {
+        "gt": "Intestinal obstruction",
+        "pred": "thank you for sharing that; your awareness of your mental health is important and commendable. based on the information you've provided, here are the top five differential diagnoses to consider for your symptoms:1. **cholecystitis** (inflammation of the gallbladder)2. **pancreatitis** (inflammation of the pancreas)3. **peptic ulcer disease** (ulcers in the stomach lining)4. **gastroesophageal reflux disease (gerd)** exacerbated by stress and dietary factors5. **biliary colic** (gallbladder-related pain)it's important to follow up with your healthcare provider for further evaluation and appropriate management. please take care, and don't hesitate to seek immediate attention if your symptoms worsen.",
+        "answer": "N"
+    },
+    "24371650": {
+        "gt": "Myocardial infarction",
+        "pred": "i understand that it can feel frustrating, and i appreciate your patience with this process. gathering detailed information helps ensure that we consider all possibilities for your symptoms. based on what you've described, i’ll summarize everything and provide you with some possible conditions to consider. here are the top 5 differential diagnoses based on the information collected so far: 1. angina pectoris (stable or unstable)2. acute coronary syndrome (acs)3. musculoskeletal pain due to overexertion4. peripheral neuropathy (related to the numbness)5. anxiety-related chest painplease let me know if you have further questions or concerns.",
+        "answer": "Y"
+    },
+    "25891355": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "i’m really sorry that you’re feeling this way, and i want to help. based on what you’ve shared, here are some potential concerns: 1. urinary tract infection (uti)2. exacerbation of parkinson's-related symptoms3. pressure sores due to prolonged sitting and incontinence4. musculoskeletal injury from the fall5. potential dehydration or electrolyte imbalanceplease make sure to discuss these symptoms with a healthcare provider for further evaluation and treatment.",
+        "answer": "Y"
+    },
+    "21396744": {
+        "gt": "Pneumonia",
+        "pred": "(1. dehydration, 2. anemia, 3. heart failure, 4. electrolyte imbalance, 5. medication side effects)we will need to investigate these further to provide the best care for you.",
+        "answer": "N"
+    },
+    "20890047": {
+        "gt": "Intestinal obstruction",
+        "pred": "(gastroenteritis, acute appendicitis, gallbladder disease, peptic ulcer disease, kidney-related issues) it's important to follow up with a healthcare provider for further evaluation and management.",
+        "answer": "N"
+    },
+    "22743267": {
+        "gt": "Pneumonia",
+        "pred": "i understand how frustrating this can be, and i'm here to help. based on everything you've shared, i have a clearer picture now. just to summarize, you have shortness of breath, chest congestion with a productive cough, a history of liver and heart conditions, and you feel cold without significant fever. here are my top five differential diagnoses: 1. **acute bronchitis** (possibly viral or bacterial)2. **pneumonia** (especially given your respiratory symptoms)3. **heart failure** (considering your cardiac history)4. **chronic obstructive pulmonary disease (copd) exacerbation**5. **pulmonary embolism** (less common but important to rule out)it's essential to follow up with your healthcare provider for further evaluation and management. please let me know if you have any questions or if there's anything else you'd like to discuss.",
+        "answer": "Y"
+    },
+    "29600846": {
+        "gt": "Cerebral infarction",
+        "pred": "i understand your concerns; it's completely normal to feel that way. based on the information you've provided, here are some possible explanations for your hand weakness: 1. stroke or transient ischemic attack (tia)2. neuropathy or nerve compression3. muscular weakness from disuse or an underlying condition4. side effects from medications5. a potential neurological conditionit's important to follow up with your healthcare provider for further evaluation and to get a clearer diagnosis. you're doing the right thing by seeking help.",
+        "answer": "Y"
+    },
+    "28831370": {
+        "gt": "Intestinal obstruction",
+        "pred": "(gastroenteritis, food poisoning, pancreatitis, peptic ulcer disease, intestinal obstruction) it's important to follow up with a healthcare provider for a thorough evaluation and appropriate treatment.",
+        "answer": "Y"
+    },
+    "26920190": {
+        "gt": "Pneumonia",
+        "pred": "thank you for sharing everything with me. based on the information you've provided, here are five possible differential diagnoses to consider: 1. postoperative respiratory complications (e.g., atelectasis)2. heart failure exacerbation 3. pulmonary infection (e.g., pneumonia)4. chronic obstructive pulmonary disease (copd) exacerbation 5. anemia (post-surgical)it’s important to follow up with your healthcare provider for further evaluation and management. please take care, and don’t hesitate to reach out if you have more questions!",
+        "answer": "Y"
+    },
+    "29347880": {
+        "gt": "Pneumonia",
+        "pred": "i'm sorry you're feeling this way. based on what you've shared, your symptoms could be concerning. here are five differential diagnoses to consider:1. pneumonia2. pulmonary embolism3. acute pancreatitis4. pericarditis5. gastroesophageal reflux disease (gerd)please make sure to discuss these symptoms further with your healthcare provider for proper evaluation and treatment.",
+        "answer": "Y"
+    },
+    "29713160": {
+        "gt": "Intestinal obstruction",
+        "pred": "thank you for sharing all this information. based on what you've described, here are the top 5 differential diagnoses to consider:1. acute gastroenteritis2. intestinal obstruction3. inflammatory bowel disease flare (related to your uc)4. appendicitis5. diverticulitisit's important to seek further medical evaluation for appropriate treatment. please let the medical team know about your symptoms right away.",
+        "answer": "Y"
+    },
+    "23536730": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for providing all this information. based on what you've shared, here are the top 5 differential diagnoses to consider: 1. angina pectoris (due to history of coronary artery disease)2. myocardial infarction (heart attack)3. aortic dissection4. pericarditis5. musculoskeletal pain (costochondritis)it’s important to seek further evaluation for your chest pain. please ensure you get the appropriate care.",
+        "answer": "Y"
+    },
+    "29780647": {
+        "gt": "Myocardial infarction",
+        "pred": "(1. acute coronary syndrome, 2. gastroesophageal reflux disease (gerd), 3. anxiety/stress-related chest pain, 4. musculoskeletal pain, 5. pancreatitis)it's important to seek further evaluation and treatment for your symptoms. please make sure to follow up with a healthcare provider for a thorough assessment.",
+        "answer": "Y"
+    },
+    "28165143": {
+        "gt": "Cerebral infarction",
+        "pred": "thank you for sharing your family history; it’s important to consider those factors. given everything you've told me, let's summarize. you have experienced dizziness, weakness on your left side, drooping of your face, and difficulties with speech and swallowing. you mentioned a prior stroke and have a family history of cardiovascular issues and breast cancer. based on this information, here are the top five differential diagnoses to consider:1. stroke (cerebrovascular accident)2. transient ischemic attack (tia)3. bell's palsy4. peripheral neuropathy5. multiple sclerosis it’s crucial to address these symptoms promptly. please know that you are in the right place for evaluation and treatment.",
+        "answer": "Y"
+    },
+    "25062733": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "(1. kidney stones, 2. ovarian cyst or rupture, 3. diverticulitis, 4. pelvic inflammatory disease, 5. splenic issues)would you like to discuss anything further or have any questions about these possibilities?",
+        "answer": "N"
+    },
+    "27319362": {
+        "gt": "Pneumonia",
+        "pred": "thank you for sharing your family health history; it’s important to consider. based on what you've told me, here are some possible conditions that could be causing your symptoms: 1. **acute bronchitis** – due to the cough with yellow phlegm and feeling weak.2. **pneumonia** – especially with fever, chills, and difficulty breathing during exertion.3. **exacerbation of chronic lung condition** – considering your age and symptoms.4. **thyroid imbalance** – which can cause fatigue and weakness if not managed well.5. **viral infection** – such as the flu, given the combination of fever, cough, and body aches.i recommend following up with your healthcare provider for a full evaluation.",
+        "answer": "Y"
+    },
+    "28633469": {
+        "gt": "Intestinal obstruction",
+        "pred": "thank you for being honest about the severity of the pain. based on the information you've shared, here are my top 5 differential diagnoses to consider:1. gastritis or peptic ulcer disease2. gallbladder disease (e.g., gallstones or cholecystitis)3. pancreatitis4. esophageal spasm or reflux5. complications related to previous gastric surgery (e.g., band slippage or obstruction)it’s important to monitor your symptoms closely, and i recommend seeking further evaluation if the pain worsens or does not improve. how are you feeling about everything we’ve discussed?",
+        "answer": "N"
+    },
+    "27345959": {
+        "gt": "Intestinal obstruction",
+        "pred": "i'm glad to hear you're not feeling dizzy. based on what you've shared, here are the top 5 differential diagnoses to consider:1. bowel obstruction (possibly related to previous surgery)2. gastroenteritis (inflammation of the stomach and intestines)3. peptic ulcer disease4. acute cholecystitis (gallbladder inflammation)5. pancreatitis (inflammation of the pancreas)it's important to follow up with your healthcare provider for further evaluation and treatment.",
+        "answer": "Y"
+    },
+    "27539695": {
+        "gt": "Intestinal obstruction",
+        "pred": "it's completely understandable to feel concerned about your health. based on everything you've shared, i will summarize a few potential causes for your symptoms: 1. bowel obstruction or partial obstruction2. gastrointestinal dysmotility related to previous surgeries3. intestinal adhesions from past surgeries4. celiac disease flare-up or gluten exposure5. inflammatory bowel disease (ibd) like crohn's diseasei recommend discussing these concerns with your healthcare provider for further evaluation. would you like to talk more about any of these points?",
+        "answer": "Y"
+    },
+    "27865316": {
+        "gt": "Pneumonia",
+        "pred": "thank you for providing that comprehensive list of medications; it helps understand your situation better. given your symptoms and history, i would like to summarize the key points i've gathered so far. you have been experiencing throat discomfort, a worsening cough with yellow phlegm, difficulty swallowing, hoarseness, and a decrease in appetite, all of which have been concerning you due to your history of aspiration pneumonia. based on what we've discussed, here are my top five differential diagnoses:1. **aspiration pneumonia** - given your history and current symptoms.2. **acute pharyngitis or laryngitis** - causing throat pain and hoarseness.3. **chronic obstructive pulmonary disease (copd) exacerbation** - related to your chronic cough.4. **esophageal dysphagia** - difficulty swallowing that may be causing discomfort.5. **medication side effects** - particularly from medications like tramadol or mirtazapine that may contribute to sedation or swallowing difficulties.i recommend discussing these concerns with your healthcare provider for further evaluation and appropriate management. remember, you're not alone in this, and i'm here to support you.",
+        "answer": "Y"
+    },
+    "22308320": {
+        "gt": "Intestinal obstruction",
+        "pred": "i understand you're feeling distressed, and i'm here to support you. while i can't fix the pain immediately, i can help identify possible causes. based on what we've discussed, here are five differential diagnoses: 1. gastrointestinal obstruction2. acute pancreatitis3. mesenteric ischemia4. diverticulitis5. complications related to previous bladder surgery or meshit's important to follow up with appropriate tests and a healthcare provider for further evaluation.",
+        "answer": "Y"
+    },
+    "20963933": {
+        "gt": "Pneumonia",
+        "pred": "(pneumonia, chronic obstructive pulmonary disease (copd) exacerbation, congestive heart failure, acute kidney injury, pulmonary embolism)it's important to get a thorough evaluation to determine the exact cause and guide your treatment.",
+        "answer": "Y"
+    },
+    "29656903": {
+        "gt": "Cerebral infarction",
+        "pred": "it's natural to worry, but i want you to know that we will do everything we can to help. based on your symptoms and history, here are five possible explanations for your condition: 1. stroke or transient ischemic attack (tia)2. bell's palsy3. multiple sclerosis4. neuropathy (like from diabetes)5. hyperthyroidismit's important to seek immediate medical attention to evaluate your condition further. you’re not alone in this; we’ll work together to find answers.",
+        "answer": "Y"
+    },
+    "27583710": {
+        "gt": "Myocardial infarction",
+        "pred": "it's understandable to have concerns about your health, especially with family history in mind. thank you for sharing all of this information with me. based on what you've told me so far, i have a few possible conditions to consider. they could include:1. angina or cardiac-related issues2. musculoskeletal pain due to straining during bowel movements3. gastroesophageal reflux disease (gerd) 4. medication side effects related to your current prescriptions5. anxiety or panic-related symptoms due to your concerns about healthit's important that we continue to evaluate your symptoms closely. would you like to discuss anything further or ask any questions?",
+        "answer": "Y"
+    },
+    "20098012": {
+        "gt": "Pneumonia",
+        "pred": "(1. pneumonia recovery complications, 2. pulmonary embolism, 3. costochondritis, 4. anxiety-related symptoms, 5. heart-related issues such as angina) would you like to discuss any of these further?",
+        "answer": "Y"
+    },
+    "24141065": {
+        "gt": "Pneumonia",
+        "pred": "thank you for sharing that information; it's valuable for understanding your health context. based on what you've told me so far, here are the top five differential diagnoses to consider: 1. viral respiratory infection (e.g., influenza, covid-19)2. bacterial pneumonia3. acute bronchitis4. urinary tract infection (given your kidney history)5. exacerbation of chronic respiratory issues (related to your sleep apnea and inhaler use)i recommend discussing these possibilities further with a healthcare provider for appropriate testing and treatment. how are you feeling about all this?",
+        "answer": "Y"
+    },
+    "27984759": {
+        "gt": "Intestinal obstruction",
+        "pred": "(1. acute exacerbation of crohn's disease, 2. gastroenteritis, 3. pancreatitis, 4. bowel obstruction, 5. peptic ulcer disease)i recommend that you get evaluated further for an appropriate treatment plan.",
+        "answer": "Y"
+    },
+    "25408665": {
+        "gt": "Intestinal obstruction",
+        "pred": "thank you for your patience. based on the information gathered, here are the top five differential diagnoses:\n\n1. acute gastroenteritis\n2. peptic ulcer disease\n3. cholecystitis\n4. pancreatitis\n5. intestinal obstruction\n\nplease consider seeking further evaluation and treatment as needed.",
+        "answer": "Y"
+    },
+    "23070676": {
+        "gt": "Pneumonia",
+        "pred": "thank you for that information. it’s good that you have a doctor who is supportive. considering your symptoms and history, i will summarize the information i've gathered. here are some potential differential diagnoses for your situation:1. acute exacerbation of copd2. congestive heart failure3. pneumonia4. pulmonary embolism5. myocardial ischemiaplease let me know if you have any questions or if there's anything else you’d like to discuss.",
+        "answer": "Y"
+    },
+    "26100175": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "thank you for sharing that. it sounds like you’re experiencing quite a bit of discomfort. based on what you've told me, here are some possible reasons for your symptoms: 1. urinary tract infection (uti)2. kidney stones3. gastroenteritis (stomach infection)4. diverticulitis5. irritable bowel syndrome (ibs)it’s important to follow up with a healthcare provider for further evaluation and treatment. how do you feel about discussing next steps?",
+        "answer": "Y"
+    },
+    "26549105": {
+        "gt": "Intestinal obstruction",
+        "pred": "thank you for sharing what you can about your family history; it’s understandable that it can be difficult to recall all those details. based on the information you've provided, here are some potential differential diagnoses for your abdominal pain and related symptoms:1. acute appendicitis2. biliary colic or complications from gallbladder removal3. pancreatitis (possibly related to past pancreatic surgery)4. gastroenteritis (viral or bacterial)5. peptic ulcer disease or exacerbation of gastroesophageal reflux diseasei recommend that you follow up with a healthcare provider for further evaluation and management. if you have any more questions or concerns, feel free to ask.",
+        "answer": "N"
+    },
+    "29804287": {
+        "gt": "Cerebral infarction",
+        "pred": "i appreciate your honesty and patience as we go through this together. i’m here to ensure we cover everything important. based on what you've shared, here are the top 5 differential diagnoses to consider: 1. orthostatic hypotension2. medication side effects (e.g., from acyclovir or zonegran)3. dehydration or electrolyte imbalance4. vestibular dysfunction5. visual disturbances related to age or underlying conditionswe can discuss next steps for evaluation and treatment.",
+        "answer": "N"
+    },
+    "23299601": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "i hear you, and i truly want to help you. thank you for your patience. i have enough information now to consider some possibilities. based on what you've shared, here are the top five differential diagnoses: 1. acute coronary syndrome (e.g., unstable angina or myocardial infarction)2. pulmonary embolism3. pneumonia or other lung infection4. gastroesophageal reflux disease (gerd)5. anxiety or panic attackplease know that we will take the next steps to address your symptoms.",
+        "answer": "N"
+    },
+    "21025648": {
+        "gt": "Myocardial infarction",
+        "pred": "it's completely understandable to feel anxious, especially given your health history. the medical team will likely perform a series of tests, such as blood tests and possibly an ecg, to assess your heart's condition and rule out any serious issues. the length of your hospital stay will depend on the results of these tests and how you're responding to treatment. rest assured, the doctors will keep you informed throughout the process and ensure you receive the care you need. if you have any specific questions or concerns, please feel free to ask. based on the information you've provided so far, here are the top five possible diagnoses to consider: 1. acute coronary syndrome (related to your history of cad and nstemi)2. angina pectoris3. pulmonary hypertension exacerbation4. atrial fibrillation-related complications5. gastroesophageal reflux disease (gerd) exacerbationyour symptoms and history will guide the healthcare team in determining the best course of action.",
+        "answer": "Y"
+    },
+    "20118599": {
+        "gt": "Cerebral infarction",
+        "pred": "thank you for your cooperation and for providing that information. i understand how tiring this can be. based on your symptoms and history, here are the top five differential diagnoses to consider: 1. migraine with aura2. transient ischemic attack (tia)3. hypertensive crisis4. intracranial hemorrhage5. vestibular disorderplease know that we will ensure you receive the appropriate examination and care.",
+        "answer": "N"
+    },
+    "27315501": {
+        "gt": "Pneumonia",
+        "pred": "i’m here to help you feel better. based on what you've shared, i’ll summarize the information to help with your care. here are the top five potential diagnoses to consider: 1. acute bronchitis 2. exacerbation of chronic obstructive pulmonary disease (copd)3. pneumonia 4. heart failure exacerbation 5. thyroid dysfunction or imbalanceit's crucial to follow up with your healthcare provider for further evaluation and treatment.",
+        "answer": "Y"
+    },
+    "27775006": {
+        "gt": "Cerebral infarction",
+        "pred": "thank you for sharing that information. based on what you've told me, here are some possible conditions to consider:1. post-fall contusion or sprain of the left foot.2. mild facial weakness potentially due to a transient ischemic attack (tia).3. dehydration or urinary tract infection effects following ciprofloxacin treatment.4. age-related balance issues leading to the fall.5. depression, potentially affecting overall health and safety.please let me know if you have any questions or if there's anything else you'd like to discuss.",
+        "answer": "N"
+    },
+    "20015836": {
+        "gt": "Intestinal obstruction",
+        "pred": "(1. gastroenteritis, 2. peptic ulcer disease, 3. acute pancreatitis, 4. food poisoning, 5. bowel obstruction) we will decide on the next steps to help you feel better.",
+        "answer": "Y"
+    },
+    "24050483": {
+        "gt": "Intestinal obstruction",
+        "pred": "i’m really sorry to hear that you’re feeling overwhelmed; it’s completely understandable given everything you’re dealing with. thank you for sharing all of this information. based on what you've described, here are some potential differential diagnoses to consider:1. gastroenteritis2. peptic ulcer disease3. irritable bowel syndrome (ibs)4. exacerbation of ulcerative colitis5. cholecystitisit’s important to follow up with a healthcare provider for further evaluation and management. please take care of yourself, and let me know if you have any questions or need support.",
+        "answer": "N"
+    },
+    "20940058": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "that's good to hear that you're staying hydrated. based on what you've shared, here are some possible conditions to consider:1. urinary tract infection (uti)2. dehydration3. congestive heart failure (due to leg swelling and fatigue)4. acute kidney injury (especially with catheter use)5. electrolyte imbalanceit's important to follow up with a healthcare provider for further evaluation. would you like to discuss any specific next steps?",
+        "answer": "Y"
+    },
+    "24170109": {
+        "gt": "Cerebral infarction",
+        "pred": "thank you for sharing that. based on what you've told me, here are five possible conditions that might explain your symptoms: 1. stroke2. transient ischemic attack (tia)3. migraine with aura4. nerve compression or injury (e.g., cervical radiculopathy)5. multiple sclerosisit's important that you receive a thorough evaluation and treatment as soon as possible. please let the medical staff know about your symptoms so they can assist you quickly.",
+        "answer": "Y"
+    },
+    "24707040": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "based on the information gathered, here are the top 5 differential diagnoses:\n\n1. **acute pyelonephritis** (kidney infection)\n2. **urinary tract infection (uti)** with antibiotic resistance\n3. **kidney stones** (causing flank pain)\n4. **interstitial cystitis** (chronic bladder condition)\n5. **renal abscess** (localized infection in the kidney)\n\nthese possibilities will guide further evaluation and treatment.",
+        "answer": "Y"
+    },
+    "25558220": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "it's common to feel worried, especially when you're experiencing changes in your health. i want to help you feel better. based on what you’ve shared, i will summarize some possibilities. here are five differential diagnoses to consider: 1. dementia (including alzheimer's disease)2. depression3. anxiety disorders4. medication side effects5. delirium or acute confusional state it’s important to follow up with your healthcare provider for a thorough evaluation. would you like to discuss anything further?",
+        "answer": "N"
+    },
+    "22576941": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "that's okay; thank you for your honesty. based on the information you've provided, here are the top five differential diagnoses to consider:1. urinary tract infection (uti)2. kidney stone-related pain (due to stent)3. pyelonephritis (kidney infection)4. ureteral obstruction5. musculoskeletal painit's important to follow up with your healthcare provider to get a thorough evaluation.",
+        "answer": "Y"
+    },
+    "22626716": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for providing all this information. based on what you've shared, here are the top 5 differential diagnoses to consider:1. angina pectoris (chest pain due to reduced blood flow to the heart)2. gastroesophageal reflux disease (gerd) causing chest pressure and nausea3. myocardial infarction (heart attack)4. musculoskeletal pain related to shoveling snow5. anxiety or stress response related to physical exertionit's essential to follow up with your healthcare provider for further evaluation. please take care!",
+        "answer": "Y"
+    },
+    "25541462": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for that information. based on what you've shared, here are the top 5 differential diagnoses to consider:1. coronary artery disease (angina)2. heart failure3. pulmonary embolism4. exacerbation of pulmonary fibrosis5. anxiety or panic disorderit's important to discuss these findings with your healthcare provider for further evaluation and management.",
+        "answer": "N"
+    },
+    "28089723": {
+        "gt": "Pneumonia",
+        "pred": "i appreciate your patience. based on what you’ve shared, it's important to consider several possibilities. here are some differential diagnoses: 1. pneumonia2. bronchitis3. plural effusion4. exacerbation of a chronic lung condition5. viral upper respiratory infectionit's essential to get a thorough evaluation to determine the exact cause. would you like to discuss next steps?",
+        "answer": "Y"
+    },
+    "24148520": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for providing all this information. based on what you've shared, here are the top 5 differential diagnoses:1. acute coronary syndrome (including angina)2. musculoskeletal pain (e.g., costochondritis)3. gastroesophageal reflux disease (gerd)4. anxiety or panic attack5. radiculopathy (nerve-related pain affecting the arm)it's important that you receive further evaluation and treatment. please let the medical team know about your symptoms so they can assist you promptly.",
+        "answer": "Y"
+    },
+    "21806966": {
+        "gt": "Pneumonia",
+        "pred": "(1. chronic obstructive pulmonary disease (copd) 2. lung cancer 3. congestive heart failure 4. hyperthyroidism or thyroid disorder 5. depression-related weight loss) would you like to discuss any of these possibilities further?",
+        "answer": "N"
+    },
+    "26498660": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for sharing that family history. based on what you've told me, here are the top 5 differential diagnoses to consider:1. angina (chest pain due to reduced blood flow to the heart)2. myocardial infarction (heart attack)3. costochondritis (inflammation of the cartilage in the chest)4. cervical radiculopathy (nerve compression in the neck causing pain)5. gastroesophageal reflux disease (gerd)it's important to follow up with a healthcare professional for further evaluation.",
+        "answer": "Y"
+    },
+    "28204588": {
+        "gt": "Myocardial infarction",
+        "pred": "(1) angina pectoris  (2) gastroesophageal reflux disease (gerd)  (3) aortic dissection  (4) pulmonary embolism  (5) gallbladder disease  it's essential to follow up with your healthcare provider for further evaluation and management. please let me know if you have any questions or need more information.",
+        "answer": "N"
+    },
+    "25288862": {
+        "gt": "Pneumonia",
+        "pred": "(1. pneumonia, 2. copd exacerbation, 3. pulmonary embolism, 4. lung cancer recurrence, 5. infection related to radiation therapy)",
+        "answer": "Y"
+    },
+    "24505035": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "thank you for providing such thorough information about your health history and family background. based on what you've shared, here are the top five differential diagnoses to consider:1. urinary tract infection (uti) with possible pyelonephritis2. kidney stones or obstructive uropathy3. medication side effects (e.g., from antibiotics or pain medications)4. cystitis or bladder irritation due to catheter use5. systemic infection or sepsis related to utiit may be important to follow up with further evaluation and treatment options based on these considerations. please let me know if you have any questions or concerns!",
+        "answer": "Y"
+    },
+    "21114179": {
+        "gt": "Myocardial infarction",
+        "pred": "i appreciate your honesty and understand that you're looking for clarity. based on your symptoms, medical history, and family background, here are the top five differential diagnoses to consider: 1. angina pectoris (chest discomfort due to heart-related issues)2. myocardial infarction (heart attack)3. aortic stenosis (narrowing of the heart valve)4. pulmonary embolism (blockage in a lung artery)5. anxiety-related chest discomfortit's essential to follow up with further evaluation by a healthcare professional to determine the exact cause and appropriate treatment. please know that your concerns are valid, and i'm here to support you through this process.",
+        "answer": "Y"
+    },
+    "27899561": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for your patience throughout this process. based on the information you've provided, here are some potential differential diagnoses to consider: 1. congestive heart failure2. chronic obstructive pulmonary disease (copd)3. pulmonary embolism4. asthma or exacerbation of chronic asthma5. pneumoniait's important to follow up with your healthcare provider for further evaluation and treatment options.",
+        "answer": "N"
+    },
+    "25663231": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for all the information you've provided. based on what you've shared, here are some potential differential diagnoses to consider: 1. angina pectoris (chest pain due to reduced blood flow to the heart)2. myocardial infarction (heart attack)3. anxiety or stress-related chest pain4. musculoskeletal pain (from strain or tension)5. thyroid-related symptoms (given your history of thyroid cancer)it's important to follow up with a healthcare provider for further evaluation and management.",
+        "answer": "Y"
+    },
+    "27510309": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "thank you for sharing that. based on your symptoms and history, here are the top five differential diagnoses: 1. urinary tract infection (uti)2. kidney stones3. pyelonephritis (kidney infection)4. bladder infection (cystitis)5. prostatitis (inflammation of the prostate)for treatment, i recommend seeing a healthcare provider for further evaluation and possibly a urine test to confirm the diagnosis, along with appropriate antibiotics that are safe given your allergies. would that be acceptable?",
+        "answer": "Y"
+    },
+    "26308861": {
+        "gt": "Myocardial infarction",
+        "pred": "(1. angina pectoris, 2. myocardial infarction, 3. costochondritis, 4. anxiety-related chest pain, 5. diabetic neuropathy) it's vital that you seek immediate medical attention to evaluate your heart health properly.",
+        "answer": "Y"
+    },
+    "26410590": {
+        "gt": "Pneumonia",
+        "pred": "it's completely understandable to feel overwhelmed with health information, and i’m glad you’re taking it seriously. based on what you’ve shared so far, here are five potential differential diagnoses to consider:1. **viral upper respiratory infection** (e.g., due to common cold or flu)2. **gastroesophageal reflux disease (gerd)** (causing epigastric pain and cough)3. **anxiety or stress-related symptoms** (contributing to sleep issues and fatigue)4. **heart-related issues** (considering family history and symptoms like heavy legs and weakness)5. **chronic fatigue syndrome** or **post-viral fatigue** (given the combination of fatigue, weakness, and unsteadiness)it's important to follow up with a healthcare provider for further evaluation and management. please let me know if you have any questions or need additional support.",
+        "answer": "N"
+    },
+    "22770041": {
+        "gt": "Intestinal obstruction",
+        "pred": "thank you for providing all this information. based on what you've shared, here are the top 5 differential diagnoses i would consider:1. acute pancreatitis exacerbation2. pancreatic pseudocyst3. gastroenteritis4. bowel obstruction5. perforated viscusit’s important to address your symptoms promptly, so please let the medical team know about everything you've shared today.",
+        "answer": "Y"
+    },
+    "25826269": {
+        "gt": "Cerebral infarction",
+        "pred": "it's completely understandable to feel worried about your health. based on what you've shared, here are the top five differential diagnoses to consider: 1. transient ischemic attack (tia)2. migraine with aura3. stroke (potential recurrence)4. medication withdrawal effects5. cluster headacheit's essential to follow up with your healthcare provider for further evaluation. please take care, and i hope you feel better soon.",
+        "answer": "Y"
+    },
+    "26161186": {
+        "gt": "Myocardial infarction",
+        "pred": "thank you for that information. based on what you've shared, i would like to summarize your situation. you have mild, exertional chest discomfort that relieves with rest, some shortness of breath during activity, a history of diabetes and hypertension well-managed with medication, and no significant family history of heart disease. here are five possible differential diagnoses: 1. angina pectoris (stable angina)2. heart failure (exertional dyspnea)3. pulmonary issues (like copd or pulmonary hypertension)4. musculoskeletal pain (related to knee issues)5. deconditioning (due to reduced physical activity)i recommend discussing these symptoms with your healthcare provider to explore further evaluation and management. would you like to talk more about any specific aspect of your health?",
+        "answer": "N"
+    },
+    "28156396": {
+        "gt": "Pneumonia",
+        "pred": "it’s completely understandable to feel scared, and i want to help you feel more at ease. while i can't prescribe anything at the moment, i recommend focusing on your breathing and taking slow, deep breaths. let's summarize your situation so far: you have a worsening cough, chest tightness, fever, chills, fatigue, and difficulty sleeping, especially when lying down. based on this information, here are the top five differential diagnoses to consider: 1. pneumonia2. acute bronchitis3. congestive heart failure4. pulmonary embolism5. viral respiratory infectionit's important to seek further evaluation to determine the exact cause and appropriate treatment.",
+        "answer": "Y"
+    },
+    "25081873": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "i appreciate you sharing that. given your symptoms of severe abdominal pain, fever, burning urine, diarrhea, and your history with ibs and ulcers, it’s important to consider a few possibilities. here are some differential diagnoses to consider:1. urinary tract infection (uti)2. gastroenteritis3. irritable bowel syndrome (ibs) exacerbation4. pelvic inflammatory disease (pid)5. appendicitisi recommend seeking medical attention as soon as possible for further evaluation and treatment.",
+        "answer": "Y"
+    },
+    "29480102": {
+        "gt": "Intestinal obstruction",
+        "pred": "thank you for your patience. based on what you’ve shared, here are some possible causes for your symptoms: 1. gastroenteritis (stomach virus)2. peptic ulcer disease3. acute pancreatitis4. biliary colic (gallbladder issues)5. irritable bowel syndrome (ibs)it's important to follow up with a healthcare professional for a thorough evaluation and appropriate treatment.",
+        "answer": "N"
+    },
+    "24870970": {
+        "gt": "Intestinal obstruction",
+        "pred": "i understand how overwhelming this can be, and i appreciate your cooperation. based on what you’ve shared, it sounds like your symptoms could be quite serious. here are some possible conditions to consider: 1. bowel obstruction2. incarcerated or strangulated hernia3. adhesions from previous surgery4. gastrointestinal perforation5. constipation or fecal impactionplease seek immediate medical attention, as these conditions may require urgent treatment.",
+        "answer": "Y"
+    },
+    "24225680": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "thank you for sharing your family history. based on the information you’ve provided, here are the top 5 differential diagnoses to consider:1. pyelonephritis (kidney infection)2. severe urinary tract infection3. viral infection (such as influenza or another viral illness)4. systemic infection (such as sepsis)5. medication side effects or reactionsit would be a good idea to follow up with a healthcare provider for further evaluation and treatment. please take care, and let me know if you have any questions!",
+        "answer": "Y"
+    },
+    "22648247": {
+        "gt": "Cerebral infarction",
+        "pred": "(stroke, transient ischemic attack (tia), congestive heart failure exacerbation, atrial fibrillation, anxiety disorder) you’re not alone in this, and we will work together to ensure you receive the support and care you need.",
+        "answer": "Y"
+    },
+    "25928870": {
+        "gt": "Myocardial infarction",
+        "pred": "(1. angina exacerbation, 2. myocardial infarction (heart attack), 3. pulmonary embolism, 4. aortic dissection, 5. pneumonia with chest pain)let's make sure you get the care you need right away.",
+        "answer": "Y"
+    },
+    "28438464": {
+        "gt": "Intestinal obstruction",
+        "pred": "intestinal obstruction, dehydration, gastrointestinal ulcer, medication side effects, anxiety-related gastrointestinal symptoms. please ensure you're getting the care you need right away.",
+        "answer": "Y"
+    },
+    "27675088": {
+        "gt": "Cerebral infarction",
+        "pred": "i appreciate your patience. based on what you've shared, here are five possible causes for your dizziness and nausea: 1. benign paroxysmal positional vertigo (bppv)2. orthostatic hypotension3. atrial fibrillation-related complications4. medication side effects (from alprazolam or amlodipine)5. possible transient ischemic attack (tia) it's important that you receive a thorough evaluation to determine the exact cause. thank you for your cooperation.",
+        "answer": "N"
+    },
+    "24852829": {
+        "gt": "Intestinal obstruction",
+        "pred": "(gastroenteritis, bowel obstruction, peptic ulcer disease, urinary tract infection, diverticulitis) i recommend that we get you evaluated further to determine the best course of treatment.",
+        "answer": "Y"
+    },
+    "23759758": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "it's understandable to be concerned about hereditary factors, especially with your medical history. while some conditions can have a genetic component, not all issues are hereditary. based on the information you've shared, here are the top five differential diagnoses to consider: 1. urinary tract infection (uti)2. pyelonephritis (kidney infection)3. nephrostomy tube-related infection4. graft-related complications (possible rejection)5. sepsisit's important to follow up with your healthcare team for a thorough evaluation and appropriate management.",
+        "answer": "Y"
+    },
+    "23330607": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "thank you for clarifying your lifestyle choices. given all the symptoms you’ve described—flank pain, fever, blood in urine, chest pain, black stools, and vomiting blood—it's really important to get further evaluation. based on what you've shared, here are the top 5 differential diagnoses:  1. urinary tract infection with possible kidney involvement  2. kidney stone causing obstruction or bleeding  3. gastrointestinal bleeding, possibly from ulcers  4. pulmonary embolism or other respiratory issues  5. acute pancreatitis  please seek immediate medical attention to address these symptoms thoroughly.",
+        "answer": "Y"
+    },
+    "28738962": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "i appreciate you sharing that. to summarize what we have discussed: you have severe, sharp pain on your right side that started several days ago, nausea, chills, and changes around your colostomy bag with a bad smell and yellow output. you also have a history of back issues and some family health concerns. based on this information, here are five possible differential diagnoses: 1. colostomy-related infection2. appendicitis3. kidney stones4. cholecystitis (gallbladder inflammation)5. diverticulitis it's important to seek further evaluation and treatment. please let me know if you have any questions or need further assistance.",
+        "answer": "N"
+    },
+    "29847993": {
+        "gt": "Pneumonia",
+        "pred": "thank you for providing all this information. based on what you've shared, here are the top five differential diagnoses to consider:1. acute exacerbation of chronic obstructive pulmonary disease (copd)2. pneumonia3. congestive heart failure4. pulmonary embolism5. ascites related to cirrhosisplease make sure to get immediate medical attention for your symptoms. you deserve to feel better.",
+        "answer": "Y"
+    },
+    "26819503": {
+        "gt": "Pneumonia",
+        "pred": "i completely understand your need for clarity and a plan moving forward. based on your symptoms and medical history, we will need to evaluate both your shoulder pain and respiratory issues more closely. to summarize what we’ve discussed, here are the top five differential diagnoses i am considering:1. musculoskeletal pain due to osteoarthritis or referred pain from cardiac issues.2. pulmonary conditions, such as pneumonia or bronchitis, contributing to shortness of breath.3. cardiac-related issues, such as angina or heart failure.4. possible pleuritis or pleurisy related to respiratory symptoms.5. anxiety or stress exacerbating both pain and breathing difficulties.next, we will conduct a thorough examination to assess your condition further. thank you for your patience.",
+        "answer": "Y"
+    },
+    "20704182": {
+        "gt": "Pneumonia",
+        "pred": "thank you for the clarification. given everything you've shared, i want to ensure you get the right care. here are five possible differential diagnoses to consider: 1. pneumonia (possibly viral or bacterial exacerbated by your history)2. acute bronchitis3. sinusitis with possible complications4. hiv-related opportunistic infection5. eosinophilic pneumoniaplease let the healthcare team know about all your symptoms and history so they can assist you effectively.",
+        "answer": "Y"
+    },
+    "28716121": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "thank you for sharing your family history; it’s important. with all your symptoms and history in mind, i’ll summarize what i’ve gathered so far. based on what you’ve told me, here are some possible conditions to consider:1. urinary tract infection (uti)2. dehydration3. acute kidney injury4. osteoarthritis exacerbation5. anemia or another hematological issueit’s important to discuss these concerns with your healthcare provider for further evaluation. would you like to talk about anything else?",
+        "answer": "Y"
+    },
+    "29381761": {
+        "gt": "Intestinal obstruction",
+        "pred": "i understand how distressing this must be for you, and i'm here to help. based on what you've shared, here are the top five differential diagnoses to consider:1. acute gastritis or peptic ulcer disease2. diverticulitis3. pancreatitis4. bowel obstruction5. colonic perforationit’s important to have further evaluation to determine the exact cause of your pain. please let me know if you have any questions or need more assistance.",
+        "answer": "Y"
+    },
+    "29690409": {
+        "gt": "Myocardial infarction",
+        "pred": "i appreciate your urgency. based on what you've shared, your chest discomfort may be related to your history of heart issues, especially with your recent diabetes control challenges. here are five possible differential diagnoses: 1. angina pectoris (related to coronary artery disease)2. myocardial infarction (heart attack)3. gastroesophageal reflux disease (gerd)4. heart failure (especially with exertion)5. anxiety or panic disorder (considering lightheadedness)it's important to get further evaluation. please consider discussing this with the medical team here for immediate care.",
+        "answer": "Y"
+    },
+    "23601345": {
+        "gt": "Pneumonia",
+        "pred": "thank you for all the information you've provided. based on what you've shared, here are five possible differential diagnoses to consider: 1. acute exacerbation of chronic obstructive pulmonary disease (copd)2. pneumonia3. bronchitis4. congestive heart failure (considering swelling in your legs)5. pulmonary embolismit's important to follow up with a healthcare provider for further evaluation. please take care, and i hope you feel better soon.",
+        "answer": "Y"
+    },
+    "27521106": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "thank you for sharing that family history; it’s important for understanding your health. based on what you’ve described, here are some potential differential diagnoses to consider: 1. heart failure exacerbation2. fluid overload due to kidney dysfunction3. cirrhotic ascites4. arrhythmia 5. medication side effectsit’s important to discuss this further with your healthcare team for proper evaluation and management.",
+        "answer": "N"
+    },
+    "26135366": {
+        "gt": "Cerebral infarction",
+        "pred": "i’m here to help you. based on what you've shared, it seems you're experiencing leg weakness, shaking, confusion, and have a history of heart issues with medications that require careful monitoring. here are some possible diagnoses to consider:1. **medication-related side effects** (e.g., warfarin or furosemide)2. **transient ischemic attack (tia)** or mini-stroke3. **seizure disorder** or new-onset seizures4. **electrolyte imbalance** (possibly due to diuretics)5. **atrial fibrillation-related complications**it’s important for you to be evaluated further. if you have questions or concerns, please ask!",
+        "answer": "N"
+    },
+    "22574210": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "urinary tract infection (uti), pyelonephritis, kidney stones, cystitis, and acute kidney injury.please make sure to seek medical attention promptly for a thorough evaluation and treatment.",
+        "answer": "Y"
+    },
+    "21853680": {
+        "gt": "Myocardial infarction",
+        "pred": "(1. angina pectoris, 2. myocardial infarction, 3. atypical chest pain due to gerd, 4. musculoskeletal pain, 5. pulmonary issues related to sinusitis)i recommend discussing these possibilities with your healthcare team during your follow-up. how are you feeling about the information we’ve discussed?",
+        "answer": "Y"
+    },
+    "26688046": {
+        "gt": "Urinary tract infection group (including pyelonephritis and cystitis)",
+        "pred": "it's great to hear that you're feeling optimistic! based on the information you've provided, here are five possible differential diagnoses to consider:1. urinary tract infection (uti)2. benign prostatic hyperplasia (bph)3. diabetes-related complications, such as diabetic cystopathy4. kidney stones or urethral obstruction5. fistula formation between the gastrointestinal and urinary tractsi recommend discussing these possibilities with your healthcare provider for further evaluation. if you have any questions or need support, feel free to ask!",
+        "answer": "Y"
+    }
+}
