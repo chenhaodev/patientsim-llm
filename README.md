@@ -46,8 +46,18 @@ We've implemented a new simulation system using modern APIs:
 | Old Models | New Model | Purpose |
 |------------|-----------|---------|
 | deepseek-llama-70b, llama3.x, qwen2.5-72b | **deepseek-api** | Primary patient simulator |
-| gpt-4o-mini, gemini-2.5-flash | **gpt-4.1-api** | Doctor agent |
+| gpt-4o-mini, gemini-2.5-flash | **gpt-5-mini** | Doctor agent (faster & cheaper) |
 | qwen2.5-7b | **ollama:qwen3** | Lightweight local patient simulator |
+
+### Pricing (per 1M tokens)
+
+| Model | Input | Cached Input | Output | Best For |
+|-------|-------|--------------|--------|----------|
+| **gpt-5-mini** | $0.250 | $0.025 | $2.000 | Doctor interviews (cost-effective) |
+| **deepseek-api** | $2.00 | $0.125 | ~$6-8 | Patient simulation (quality) |
+| **ollama:qwen3** | Free | Free | Free | Local deployment (no API costs) |
+
+**Cost savings**: GPT-5 mini is **12x cheaper** than GPT-4.1 and **20x cheaper** than GPT-4o!
 
 ### Quick Start
 
@@ -83,7 +93,7 @@ python generate_dialogues.py --test-connection
 
 Expected output:
 ```
-✓ gpt-4.1-api
+✓ gpt-5-mini
 ✓ ollama:qwen3
 ✓ deepseek-api (if you have credits)
 ```
@@ -94,7 +104,7 @@ Run on 2 patients to test:
 
 ```bash
 python generate_dialogues.py \
-  --doctor-model gpt-4.1-api \
+  --doctor-model gpt-5-mini \
   --patient-model ollama:qwen3 \
   --splits persona \
   --limit 2
@@ -106,7 +116,7 @@ Generate all dialogues:
 
 ```bash
 python generate_dialogues.py \
-  --doctor-model gpt-4.1-api \
+  --doctor-model gpt-5-mini \
   --patient-model ollama:qwen3 \
   --splits persona,info
 ```
@@ -155,7 +165,7 @@ Each dialogue is saved in JSONL format:
 ```json
 {
   "hadm_id": "28162080",
-  "doctor_engine_name": "gpt-4.1-api",
+  "doctor_engine_name": "gpt-5-mini",
   "patient_engine_name": "ollama:qwen3",
   "cefr_type": "B",
   "personality_type": "plain",
@@ -231,7 +241,7 @@ The original dataset includes comprehensive evaluation:
 
 ```bash
 python generate_dialogues.py \
-  --doctor-model gpt-4.1-api \
+  --doctor-model gpt-5-mini \
   --patient-model "deepseek-api,ollama:qwen3" \
   --splits persona,info
 ```
@@ -241,7 +251,7 @@ python generate_dialogues.py \
 ```bash
 python generate_dialogues.py \
   --config my_config.yaml \
-  --doctor-model gpt-4.1-api \
+  --doctor-model gpt-5-mini \
   --patient-model ollama:qwen3
 ```
 
@@ -265,7 +275,7 @@ models:
     temperature: 0.7      # Creativity (0.0-2.0)
     max_tokens: 2048      # Response length
 
-  gpt-4.1-api:
+  gpt-5-mini:
     temperature: 0.7
     max_tokens: 2048
 
@@ -310,11 +320,16 @@ Add delays in `llm_client.py` if hitting rate limits.
 ## Performance Notes
 
 - **deepseek-api**: ~2-3 sec/response, cost-effective
-- **gpt-4.1-api**: ~1-2 sec/response, higher quality
+- **gpt-5-mini**: ~1-2 sec/response, fast & cheap ($0.25/1M input tokens)
 - **ollama:qwen3**: <1 sec/response, free (local, requires GPU)
 
 Estimated time for full simulation (160 patients):
 - **~2-3 hours** depending on model speed
+
+Estimated cost for full simulation (160 patients × 20 turns):
+- **gpt-5-mini + ollama:qwen3**: ~$0.80 (doctor only, patient is free)
+- **gpt-5-mini + deepseek-api**: ~$6-8 total
+- **ollama:qwen3 + ollama:qwen3**: $0 (completely free, local)
 
 ## Documentation
 

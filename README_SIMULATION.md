@@ -9,8 +9,14 @@ The new system uses these models instead of the legacy ones:
 | Old Model | New Model | Purpose |
 |-----------|-----------|---------|
 | deepseek-llama-70b, llama3.x, qwen2.5-72b | **deepseek-api** | Primary patient simulator |
-| gpt-4o-mini, gemini-2.5-flash | **gpt-4.1-api** | Doctor agent |
+| gpt-4o-mini, gemini-2.5-flash | **gpt-5-mini** | Doctor agent (faster & cheaper) |
 | qwen2.5-7b | **ollama:qwen3** | Lightweight patient simulator |
+
+### Pricing (per 1M tokens)
+
+**gpt-5-mini**: Input $0.25, Cached $0.025, Output $2.00
+**deepseek-api**: Input $2.00, Cached $0.125, Output ~$6-8
+**ollama:qwen3**: Free (local deployment)
 
 ## Setup
 
@@ -54,7 +60,7 @@ python generate_dialogues.py --test-connection
 You should see:
 ```
 ✓ deepseek-api
-✓ gpt-4.1-api
+✓ gpt-5-mini
 ✓ ollama:qwen3
 ```
 
@@ -81,7 +87,7 @@ Run on just 2 patients to test:
 
 ```bash
 python generate_dialogues.py \
-  --doctor-model gpt-4.1-api \
+  --doctor-model gpt-5-mini \
   --patient-model deepseek-api \
   --splits persona \
   --limit 2
@@ -93,7 +99,7 @@ Generate all dialogues with one patient model:
 
 ```bash
 python generate_dialogues.py \
-  --doctor-model gpt-4.1-api \
+  --doctor-model gpt-5-mini \
   --patient-model deepseek-api \
   --splits persona,info
 ```
@@ -109,7 +115,7 @@ Run with multiple patient models:
 
 ```bash
 python generate_dialogues.py \
-  --doctor-model gpt-4.1-api \
+  --doctor-model gpt-5-mini \
   --patient-model "deepseek-api,ollama:qwen3" \
   --splits persona,info
 ```
@@ -126,7 +132,7 @@ simulation_output/
 │   └── llm_simulation/
 │       ├── deepseek-api/
 │       │   └── llm_dialogue.jsonl
-│       ├── gpt-4.1-api/
+│       ├── gpt-5-mini/
 │       │   └── llm_dialogue.jsonl
 │       └── ollama:qwen3/
 │           └── llm_dialogue.jsonl
@@ -140,7 +146,7 @@ Each `llm_dialogue.jsonl` contains:
 ```json
 {
   "hadm_id": "28162080",
-  "doctor_engine_name": "gpt-4.1-api",
+  "doctor_engine_name": "gpt-5-mini",
   "patient_engine_name": "deepseek-api",
   "cefr_type": "B",
   "personality_type": "plain",
@@ -163,7 +169,7 @@ Create a custom config file:
 ```bash
 python generate_dialogues.py \
   --config my_config.yaml \
-  --doctor-model gpt-4.1-api \
+  --doctor-model gpt-5-mini \
   --patient-model deepseek-api
 ```
 
@@ -277,7 +283,7 @@ After generating dialogues, use the original `analysis.ipynb` to evaluate:
 ## Performance Notes
 
 - **deepseek-api**: ~2-3 sec/response, cost-effective
-- **gpt-4.1-api**: ~1-2 sec/response, higher quality
+- **gpt-5-mini**: ~1-2 sec/response, fast & cheap ($0.25/1M input)
 - **ollama:qwen3**: <1 sec/response (local), free but requires GPU
 
 Estimated time for full simulation:
